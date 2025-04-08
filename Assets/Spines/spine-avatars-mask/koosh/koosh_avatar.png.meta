@@ -1,0 +1,4303 @@
+fileFormatVersion: 2
+guid: 1a28f6c5d06a4b649bf161735a953b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5695881393627681632
+    second: koosh_avatar_0
+  - first:
+      213: 2474316842857300219
+    second: koosh_avatar_1
+  - first:
+      213: -156524792368035603
+    second: koosh_avatar_2
+  - first:
+      213: 1152735766792028616
+    second: koosh_avatar_3
+  - first:
+      213: 8895170385326131876
+    second: koosh_avatar_4
+  - first:
+      213: -5900733328469809595
+    second: koosh_avatar_5
+  - first:
+      213: 5657615048130480355
+    second: koosh_avatar_6
+  - first:
+      213: -1804320191445895168
+    second: koosh_avatar_7
+  - first:
+      213: -885145603496539501
+    second: koosh_avatar_8
+  - first:
+      213: 6282517382093220563
+    second: koosh_avatar_9
+  - first:
+      213: -3963139899525453796
+    second: koosh_avatar_10
+  - first:
+      213: -6286200801268127286
+    second: koosh_avatar_11
+  - first:
+      213: -6480859930346110723
+    second: koosh_avatar_12
+  - first:
+      213: 3070398747821316460
+    second: koosh_avatar_13
+  - first:
+      213: -1893910776829552820
+    second: koosh_avatar_14
+  - first:
+      213: -1413516446689215134
+    second: koosh_avatar_15
+  - first:
+      213: 4217278984690173855
+    second: koosh_avatar_16
+  - first:
+      213: 1708334355011032427
+    second: koosh_avatar_17
+  - first:
+      213: 3293744233954869856
+    second: koosh_avatar_18
+  - first:
+      213: 8130045091439272250
+    second: koosh_avatar_19
+  - first:
+      213: 8193083536070595402
+    second: koosh_avatar_20
+  - first:
+      213: 6638868910569546012
+    second: koosh_avatar_21
+  - first:
+      213: 4917078699298861185
+    second: koosh_avatar_22
+  - first:
+      213: -719487896508422213
+    second: koosh_avatar_23
+  - first:
+      213: -3364326946616696908
+    second: koosh_avatar_24
+  - first:
+      213: -9164916399401032937
+    second: koosh_avatar_25
+  - first:
+      213: 9173477769893041881
+    second: koosh_avatar_26
+  - first:
+      213: -7713179944336685970
+    second: koosh_avatar_27
+  - first:
+      213: 2089406988957426445
+    second: koosh_avatar_28
+  - first:
+      213: 8168355664215260724
+    second: koosh_avatar_29
+  - first:
+      213: 2469635265624811463
+    second: koosh_avatar_30
+  - first:
+      213: 6761104751534005772
+    second: koosh_avatar_31
+  - first:
+      213: -8354584311699178853
+    second: koosh_avatar_32
+  - first:
+      213: 621629546012352685
+    second: koosh_avatar_33
+  - first:
+      213: -1162994684764687720
+    second: koosh_avatar_34
+  - first:
+      213: 8606188766332763652
+    second: koosh_avatar_35
+  - first:
+      213: -6014268708480764781
+    second: koosh_avatar_36
+  - first:
+      213: 2605917767565774511
+    second: koosh_avatar_37
+  - first:
+      213: -8747990356405038514
+    second: koosh_avatar_38
+  - first:
+      213: -3397991270605993147
+    second: koosh_avatar_39
+  - first:
+      213: 5921384706542332258
+    second: koosh_avatar_40
+  - first:
+      213: 7813480762018813456
+    second: koosh_avatar_41
+  - first:
+      213: -6754576343355610436
+    second: koosh_avatar_42
+  - first:
+      213: -8511820516842739502
+    second: koosh_avatar_43
+  - first:
+      213: -7061420727840307314
+    second: koosh_avatar_44
+  - first:
+      213: -8575375555738913711
+    second: koosh_avatar_45
+  - first:
+      213: 4186929581850055869
+    second: koosh_avatar_46
+  - first:
+      213: 5922351322743722319
+    second: koosh_avatar_47
+  - first:
+      213: -2937177366818259134
+    second: koosh_avatar_48
+  - first:
+      213: 9045556199319593991
+    second: koosh_avatar_49
+  - first:
+      213: 3275106808787016370
+    second: koosh_avatar_50
+  - first:
+      213: 6943573142118117648
+    second: koosh_avatar_51
+  - first:
+      213: 4241409040064691890
+    second: koosh_avatar_52
+  - first:
+      213: 911837694794132423
+    second: koosh_avatar_53
+  - first:
+      213: 8982400010580581770
+    second: koosh_avatar_54
+  - first:
+      213: -8891811276362051443
+    second: koosh_avatar_55
+  - first:
+      213: 8929367821962211405
+    second: koosh_avatar_56
+  - first:
+      213: 2423331341427806981
+    second: koosh_avatar_57
+  - first:
+      213: -1203162962214356809
+    second: koosh_avatar_58
+  - first:
+      213: 686595420610249233
+    second: koosh_avatar_59
+  - first:
+      213: -7882520521210896389
+    second: koosh_avatar_60
+  - first:
+      213: 5299596166767112028
+    second: koosh_avatar_61
+  - first:
+      213: 5015783994483930037
+    second: koosh_avatar_62
+  - first:
+      213: 6280116768540428537
+    second: koosh_avatar_63
+  - first:
+      213: 6653096039115940484
+    second: koosh_avatar_64
+  - first:
+      213: 3635958526114543340
+    second: koosh_avatar_65
+  - first:
+      213: 4660147092701250449
+    second: koosh_avatar_66
+  - first:
+      213: 6479985165275907437
+    second: koosh_avatar_67
+  - first:
+      213: -57776950685362758
+    second: koosh_avatar_68
+  - first:
+      213: 1084638630851411922
+    second: koosh_avatar_69
+  - first:
+      213: 6844412485786516901
+    second: koosh_avatar_70
+  - first:
+      213: -7083686891499583628
+    second: koosh_avatar_71
+  - first:
+      213: 8839949347124256922
+    second: koosh_avatar_72
+  - first:
+      213: -8616084952547257729
+    second: koosh_avatar_73
+  - first:
+      213: -3550052337145658850
+    second: koosh_avatar_74
+  - first:
+      213: 1993409643565346901
+    second: koosh_avatar_75
+  - first:
+      213: -365623475078375975
+    second: koosh_avatar_76
+  - first:
+      213: -4443318221892833868
+    second: koosh_avatar_77
+  - first:
+      213: -6412306521394673550
+    second: koosh_avatar_78
+  - first:
+      213: 5445398202990721187
+    second: koosh_avatar_79
+  - first:
+      213: 3479154596917463996
+    second: koosh_avatar_80
+  - first:
+      213: 2386006713843918345
+    second: koosh_avatar_81
+  - first:
+      213: -4256529801437117115
+    second: koosh_avatar_82
+  - first:
+      213: 1632815803060070082
+    second: koosh_avatar_83
+  - first:
+      213: 8817655756707305518
+    second: koosh_avatar_84
+  - first:
+      213: -8850270571348878360
+    second: koosh_avatar_85
+  - first:
+      213: -7149373897404616338
+    second: koosh_avatar_86
+  - first:
+      213: -7071183205650922960
+    second: koosh_avatar_87
+  - first:
+      213: 2676554842654758495
+    second: koosh_avatar_88
+  - first:
+      213: 3369160224731158962
+    second: koosh_avatar_89
+  - first:
+      213: -3214317254355398550
+    second: koosh_avatar_90
+  - first:
+      213: -2010710241702548268
+    second: koosh_avatar_91
+  - first:
+      213: -3000849247481518185
+    second: koosh_avatar_92
+  - first:
+      213: -6919591547895525851
+    second: koosh_avatar_93
+  - first:
+      213: 4654225291727957233
+    second: koosh_avatar_94
+  - first:
+      213: 4624825686473483907
+    second: koosh_avatar_95
+  - first:
+      213: -7226670585432507300
+    second: koosh_avatar_96
+  - first:
+      213: 2325327700540602817
+    second: koosh_avatar_97
+  - first:
+      213: 2583472308333893545
+    second: koosh_avatar_98
+  - first:
+      213: -2986852363322021388
+    second: koosh_avatar_99
+  - first:
+      213: 8741405347132784855
+    second: koosh_avatar_100
+  - first:
+      213: -2924081401684913582
+    second: koosh_avatar_101
+  - first:
+      213: -606583068619631873
+    second: koosh_avatar_102
+  - first:
+      213: 1274298078053080544
+    second: koosh_avatar_103
+  - first:
+      213: -7121652329656026154
+    second: koosh_avatar_104
+  - first:
+      213: 5407722516428806254
+    second: koosh_avatar_105
+  - first:
+      213: -1989728585946492592
+    second: koosh_avatar_106
+  - first:
+      213: 4384482725412118141
+    second: koosh_avatar_107
+  - first:
+      213: -7693968613689621716
+    second: koosh_avatar_108
+  - first:
+      213: -2515055660898148473
+    second: koosh_avatar_109
+  - first:
+      213: -8654969375613766921
+    second: koosh_avatar_110
+  - first:
+      213: -4692610150863181345
+    second: koosh_avatar_111
+  - first:
+      213: 1378119472150496585
+    second: koosh_avatar_112
+  - first:
+      213: -3946200726224267464
+    second: koosh_avatar_113
+  - first:
+      213: 8258041581743079364
+    second: koosh_avatar_114
+  - first:
+      213: 9202769351170910589
+    second: koosh_avatar_115
+  - first:
+      213: 4609904055537617810
+    second: koosh_avatar_116
+  - first:
+      213: 3970990006409456667
+    second: koosh_avatar_117
+  - first:
+      213: 2584724648424361819
+    second: koosh_avatar_118
+  - first:
+      213: -4506138173647526085
+    second: koosh_avatar_119
+  - first:
+      213: -64070066137877554
+    second: koosh_avatar_120
+  - first:
+      213: 3875894594831206095
+    second: koosh_avatar_121
+  - first:
+      213: -3942723978225755856
+    second: koosh_avatar_122
+  - first:
+      213: 5266481767586578590
+    second: koosh_avatar_123
+  - first:
+      213: -3821181626531001760
+    second: koosh_avatar_124
+  - first:
+      213: -3905817202768627806
+    second: koosh_avatar_125
+  - first:
+      213: 654997285487717554
+    second: koosh_avatar_126
+  - first:
+      213: -1369877647828872783
+    second: koosh_avatar_127
+  - first:
+      213: 3911189495242245190
+    second: koosh_avatar_128
+  - first:
+      213: -8340087034612763097
+    second: koosh_avatar_129
+  - first:
+      213: 3502859902720956695
+    second: koosh_avatar_130
+  - first:
+      213: 3366875275616825661
+    second: koosh_avatar_131
+  - first:
+      213: -531429718704212701
+    second: koosh_avatar_132
+  - first:
+      213: 7218899083312348131
+    second: koosh_avatar_133
+  - first:
+      213: -7085513094314122631
+    second: koosh_avatar_134
+  - first:
+      213: -8398062122893642531
+    second: koosh_avatar_135
+  - first:
+      213: 2963218588476449021
+    second: koosh_avatar_136
+  - first:
+      213: -5716597309151745653
+    second: koosh_avatar_137
+  - first:
+      213: -6776851961680218356
+    second: koosh_avatar_138
+  - first:
+      213: -3890614686907620410
+    second: koosh_avatar_139
+  - first:
+      213: 3007992291431558469
+    second: koosh_avatar_140
+  - first:
+      213: 4556000835897893141
+    second: koosh_avatar_141
+  - first:
+      213: 786669522555525685
+    second: koosh_avatar_142
+  - first:
+      213: -7688779380826671982
+    second: koosh_avatar_143
+  - first:
+      213: 5110321332434856744
+    second: koosh_avatar_144
+  - first:
+      213: -2889019508465184110
+    second: koosh_avatar_145
+  - first:
+      213: -5275551069860424182
+    second: koosh_avatar_146
+  - first:
+      213: -4615238769908488154
+    second: koosh_avatar_147
+  - first:
+      213: 2918039877079101717
+    second: koosh_avatar_148
+  - first:
+      213: -4527908407827154970
+    second: koosh_avatar_149
+  - first:
+      213: 5223583598260126064
+    second: koosh_avatar_150
+  - first:
+      213: -7547011615480813133
+    second: koosh_avatar_151
+  - first:
+      213: -5588018910394941844
+    second: koosh_avatar_152
+  - first:
+      213: 5062233602141755083
+    second: koosh_avatar_153
+  - first:
+      213: -5899270229380497354
+    second: koosh_avatar_154
+  - first:
+      213: 5534040606366198848
+    second: koosh_avatar_155
+  - first:
+      213: 4387127342228971220
+    second: koosh_avatar_156
+  - first:
+      213: 7023252405422392146
+    second: koosh_avatar_157
+  - first:
+      213: -3830729767947499915
+    second: koosh_avatar_158
+  - first:
+      213: 3959002725102028899
+    second: koosh_avatar_159
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: koosh_avatar_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3795
+        width: 269
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aca012fc0a24f0b0800000000000000
+      internalID: -5695881393627681632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3795
+        width: 269
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf086402f0a865220800000000000000
+      internalID: 2474316842857300219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3795
+        width: 269
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de88c58d789e3ddf0800000000000000
+      internalID: -156524792368035603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_3
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3795
+        width: 269
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c68b82175fff00800000000000000
+      internalID: 1152735766792028616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3493
+        width: 265
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa40f9365ef17b70800000000000000
+      internalID: 8895170385326131876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3493
+        width: 266
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546af3a1d426c1ea0800000000000000
+      internalID: -5900733328469809595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3493
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8c8b339e2e38e40800000000000000
+      internalID: 5657615048130480355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 3493
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087dc77854c5f6e0800000000000000
+      internalID: -1804320191445895168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_8
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 3493
+        width: 268
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a071963c457b3f0800000000000000
+      internalID: -885145603496539501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_9
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3493
+        width: 268
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da22e6d54cff2750800000000000000
+      internalID: 6282517382093220563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_10
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3493
+        width: 268
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18ab9d42491009c0800000000000000
+      internalID: -3963139899525453796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_11
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3493
+        width: 269
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac923ad4dade2c8a0800000000000000
+      internalID: -6286200801268127286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_12
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 3493
+        width: 269
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df048acfa3c5f06a0800000000000000
+      internalID: -6480859930346110723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_13
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 3493
+        width: 269
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6991bab46f3c9a20800000000000000
+      internalID: 3070398747821316460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_14
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 3493
+        width: 269
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c475acece2a77b5e0800000000000000
+      internalID: -1893910776829552820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_15
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 3493
+        width: 269
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dbae6e74e226ce0800000000000000
+      internalID: -1413516446689215134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_16
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 3493
+        width: 269
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f978d2974e8c68a30800000000000000
+      internalID: 4217278984690173855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3191
+        width: 261
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6557047b0935b710800000000000000
+      internalID: 1708334355011032427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3191
+        width: 262
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0620fd50eeab5bd20800000000000000
+      internalID: 3293744233954869856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_19
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3191
+        width: 262
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3165239fe8b3d070800000000000000
+      internalID: 8130045091439272250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_20
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3191
+        width: 262
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43d696311ea3b170800000000000000
+      internalID: 8193083536070595402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_21
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3191
+        width: 262
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e1e49910022c50800000000000000
+      internalID: 6638868910569546012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_22
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3191
+        width: 262
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18039547609fc3440800000000000000
+      internalID: 4917078699298861185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_23
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 3191
+        width: 264
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb72c64f19dd306f0800000000000000
+      internalID: -719487896508422213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_24
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 3191
+        width: 264
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf13ae87728f41d0800000000000000
+      internalID: -3364326946616696908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_25
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 3191
+        width: 265
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713ac81b71dafc080800000000000000
+      internalID: -9164916399401032937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_26
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 3191
+        width: 265
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6da65bd6dbe4f70800000000000000
+      internalID: 9173477769893041881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_27
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 3191
+        width: 265
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e640521f4b745f490800000000000000
+      internalID: -7713179944336685970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_28
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 3191
+        width: 265
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03a60816901ffc10800000000000000
+      internalID: 2089406988957426445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_29
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 3191
+        width: 265
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb994e234db5170800000000000000
+      internalID: 8168355664215260724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2889
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7285c7038e54220800000000000000
+      internalID: 2469635265624811463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2889
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ed36c13f444dd50800000000000000
+      internalID: 6761104751534005772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_32
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2889
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a7e1f35dd8e0c80800000000000000
+      internalID: -8354584311699178853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_33
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2889
+        width: 261
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da024ff47c870a800800000000000000
+      internalID: 621629546012352685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_34
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2889
+        width: 261
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892feeafe763cdfe0800000000000000
+      internalID: -1162994684764687720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_35
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2889
+        width: 261
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eb83fd5135f6770800000000000000
+      internalID: 8606188766332763652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_36
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 2889
+        width: 261
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394b14f7976098ca0800000000000000
+      internalID: -6014268708480764781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_37
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2889
+        width: 261
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae03a127641a2420800000000000000
+      internalID: 2605917767565774511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_38
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2889
+        width: 261
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e425fe3ae15e89680800000000000000
+      internalID: -8747990356405038514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_39
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2889
+        width: 261
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bc6a551f8e7d0d0800000000000000
+      internalID: -3397991270605993147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_40
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 2889
+        width: 261
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269e2eb840cfc2250800000000000000
+      internalID: 5921384706542332258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_41
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 2889
+        width: 261
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016da7ffa5f0f6c60800000000000000
+      internalID: 7813480762018813456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_42
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 2889
+        width: 261
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba280e5a9ce242a0800000000000000
+      internalID: -6754576343355610436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2587
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e4b56650ffd980800000000000000
+      internalID: -8511820516842739502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_44
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2587
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e878f73d24bc00e90800000000000000
+      internalID: -7061420727840307314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_45
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2587
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1543d98cd552ef880800000000000000
+      internalID: -8575375555738913711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_46
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2587
+        width: 262
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db45fb97546fa1a30800000000000000
+      internalID: 4186929581850055869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_47
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2587
+        width: 262
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41543b662b603250800000000000000
+      internalID: 5922351322743722319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_48
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2587
+        width: 261
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ffa782fbc0d37d0800000000000000
+      internalID: -2937177366818259134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_49
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 2587
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704e6481075488d70800000000000000
+      internalID: 9045556199319593991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_50
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2587
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba96335a44837d20800000000000000
+      internalID: 3275106808787016370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_51
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2587
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b4efebf68c5060800000000000000
+      internalID: 6943573142118117648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_52
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2587
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bebf2ccc038cda30800000000000000
+      internalID: 4241409040064691890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_53
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 2587
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbe3036d8f77ac00800000000000000
+      internalID: 911837694794132423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_54
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 2587
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dde150835e7ac70800000000000000
+      internalID: 8982400010580581770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_55
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 2587
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8090a641c0f99480800000000000000
+      internalID: -8891811276362051443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2285
+        width: 268
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d407cd869bc7beb70800000000000000
+      internalID: 8929367821962211405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2285
+        width: 267
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50310e2040761a120800000000000000
+      internalID: 2423331341427806981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_58
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2285
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b87e4619a18d4fe0800000000000000
+      internalID: -1203162962214356809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_59
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2285
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11242e5b5e6478900800000000000000
+      internalID: 686595420610249233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_60
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 2285
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff5f7e6959ab9290800000000000000
+      internalID: -7882520521210896389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_61
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 2285
+        width: 265
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fec2d92a2fb8940800000000000000
+      internalID: 5299596166767112028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_62
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 2285
+        width: 265
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3fd4dd7f4ab9540800000000000000
+      internalID: 5015783994483930037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_63
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2285
+        width: 265
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f883d07de4772750800000000000000
+      internalID: 6280116768540428537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_64
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2285
+        width: 265
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4826014199b845c50800000000000000
+      internalID: 6653096039115940484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_65
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 2285
+        width: 265
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce63c1fe305857230800000000000000
+      internalID: 3635958526114543340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_66
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 2285
+        width: 264
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193078d171b2ca040800000000000000
+      internalID: 4660147092701250449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_67
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 2285
+        width: 264
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d654216ec288de950800000000000000
+      internalID: 6479985165275907437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_68
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 2285
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab591326b2cb23ff0800000000000000
+      internalID: -57776950685362758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1983
+        width: 269
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df709d86196d0f00800000000000000
+      internalID: 1084638630851411922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1983
+        width: 269
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adbd8f74ec3cfe50800000000000000
+      internalID: 6844412485786516901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_71
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1983
+        width: 269
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477831c9d40b1bd90800000000000000
+      internalID: -7083686891499583628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_72
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1983
+        width: 269
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90a9cb581fcdaa70800000000000000
+      internalID: 8839949347124256922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_73
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1983
+        width: 269
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7215d8b2648d6880800000000000000
+      internalID: -8616084952547257729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_74
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1983
+        width: 269
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124366553eabbec0800000000000000
+      internalID: -3550052337145658850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_75
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1983
+        width: 269
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550fc8062830aab10800000000000000
+      internalID: 1993409643565346901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_76
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1983
+        width: 269
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5d866f26b0deaf0800000000000000
+      internalID: -365623475078375975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_77
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1983
+        width: 269
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdae007e992652c0800000000000000
+      internalID: -4443318221892833868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_78
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 1983
+        width: 269
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27889515139e207a0800000000000000
+      internalID: -6412306521394673550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_79
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1983
+        width: 269
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8ffcd80d0f19b40800000000000000
+      internalID: 5445398202990721187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_80
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1983
+        width: 268
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbceeb2ca0784030800000000000000
+      internalID: 3479154596917463996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_81
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 1983
+        width: 268
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062d52f67ccc1120800000000000000
+      internalID: 2386006713843918345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_82
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1681
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5450a7992b4cde4c0800000000000000
+      internalID: -4256529801437117115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1681
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62a05625de8a610800000000000000
+      internalID: 1632815803060070082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_84
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1681
+        width: 268
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28973a513b9e5a70800000000000000
+      internalID: 8817655756707305518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_85
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1681
+        width: 268
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb18ac5ec58d2580800000000000000
+      internalID: -8850270571348878360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_86
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1681
+        width: 268
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e617fbeb15258cc90800000000000000
+      internalID: -7149373897404616338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_87
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1681
+        width: 269
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320875d65c1edd90800000000000000
+      internalID: -7071183205650922960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_88
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1681
+        width: 269
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d94ac278052520800000000000000
+      internalID: 2676554842654758495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_89
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1681
+        width: 269
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9d972bf59a1ce20800000000000000
+      internalID: 3369160224731158962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_90
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1681
+        width: 269
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60dcb2cc737463d0800000000000000
+      internalID: -3214317254355398550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_91
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 1681
+        width: 269
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc641930b58814e0800000000000000
+      internalID: -2010710241702548268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_92
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1681
+        width: 269
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ad533287da56d0800000000000000
+      internalID: -3000849247481518185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_93
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1681
+        width: 269
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e44e4162ca8ff90800000000000000
+      internalID: -6919591547895525851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_94
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 1681
+        width: 269
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc65126e31279040800000000000000
+      internalID: 4654225291727957233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_95
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1379
+        width: 262
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386aa5e557eae2040800000000000000
+      internalID: 4624825686473483907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_96
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1379
+        width: 262
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cf78e1465b5bb90800000000000000
+      internalID: -7226670585432507300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_97
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1379
+        width: 263
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c939193939354020800000000000000
+      internalID: 2325327700540602817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_98
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1379
+        width: 262
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7dc4960665ad320800000000000000
+      internalID: 2583472308333893545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_99
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1379
+        width: 264
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9a7afb9919c86d0800000000000000
+      internalID: -2986852363322021388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_100
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1379
+        width: 264
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0cc8969d5bf4970800000000000000
+      internalID: 8741405347132784855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_101
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1379
+        width: 265
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2529e3625739b67d0800000000000000
+      internalID: -2924081401684913582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_102
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1379
+        width: 265
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21924b9ebf497f0800000000000000
+      internalID: -606583068619631873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_103
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1379
+        width: 265
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed1158b9573fa110800000000000000
+      internalID: 1274298078053080544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_104
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1379
+        width: 265
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbf40530feca2d90800000000000000
+      internalID: -7121652329656026154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_105
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 1379
+        width: 265
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68de933af61c0b40800000000000000
+      internalID: 5407722516428806254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_106
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 1379
+        width: 265
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0511833a4601364e0800000000000000
+      internalID: -1989728585946492592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_107
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 1379
+        width: 266
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e960c0fcfc8dc30800000000000000
+      internalID: 4384482725412118141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_108
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1077
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23860c6f48893590800000000000000
+      internalID: -7693968613689621716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_109
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1077
+        width: 261
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f94d5a33ab81dd0800000000000000
+      internalID: -2515055660898148473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_110
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1077
+        width: 261
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f238a8753f53e780800000000000000
+      internalID: -8654969375613766921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_111
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1077
+        width: 261
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd968682eef70eeb0800000000000000
+      internalID: -4692610150863181345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_112
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1077
+        width: 261
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945449bbb50102310800000000000000
+      internalID: 1378119472150496585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_113
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1077
+        width: 261
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837930de8574c39c0800000000000000
+      internalID: -3946200726224267464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_114
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1077
+        width: 261
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf733cc0157a9270800000000000000
+      internalID: 8258041581743079364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_115
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1077
+        width: 261
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e46e67fdc6bf70800000000000000
+      internalID: 9202769351170910589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_116
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 1077
+        width: 261
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bc3fe605ba9ff30800000000000000
+      internalID: 4609904055537617810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_117
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1077
+        width: 261
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c69a22f5acb1730800000000000000
+      internalID: 3970990006409456667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_118
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1077
+        width: 261
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fc78f8f59ced320800000000000000
+      internalID: 2584724648424361819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_119
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 1077
+        width: 262
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3769e2a43bf671c0800000000000000
+      internalID: -4506138173647526085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_120
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 1077
+        width: 262
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3bd134d906c1ff0800000000000000
+      internalID: -64070066137877554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_121
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 775
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc645cf3991f9c530800000000000000
+      internalID: 3875894594831206095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_122
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 775
+        width: 262
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03950766e61a849c0800000000000000
+      internalID: -3942723978225755856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_123
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 775
+        width: 262
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c11db34d461940800000000000000
+      internalID: 5266481767586578590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_124
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 775
+        width: 261
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ace506e8f68fac0800000000000000
+      internalID: -3821181626531001760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_125
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 775
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7bd5fa2ffbbc9c0800000000000000
+      internalID: -3905817202768627806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_126
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 775
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc27529f84071900800000000000000
+      internalID: 654997285487717554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_127
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 775
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1996789873dfce0800000000000000
+      internalID: -1369877647828872783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_128
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 775
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6444721af16574630800000000000000
+      internalID: 3911189495242245190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_129
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 775
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726b01a970f024c80800000000000000
+      internalID: -8340087034612763097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_130
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 775
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71954a7c588ac9030800000000000000
+      internalID: 3502859902720956695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_131
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 775
+        width: 261
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31bf26893b89be20800000000000000
+      internalID: 3366875275616825661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_132
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 775
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325bc898c7bff98f0800000000000000
+      internalID: -531429718704212701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_133
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 775
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebb93a087eae2460800000000000000
+      internalID: 7218899083312348131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_134
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 473
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9722702a1633bad90800000000000000
+      internalID: -7085513094314122631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_135
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 473
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4f24b7ef6147b80800000000000000
+      internalID: -8398062122893642531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_136
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 473
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df029fd3b977f1920800000000000000
+      internalID: 2963218588476449021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_137
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 473
+        width: 265
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b896e0009019aa0b0800000000000000
+      internalID: -5716597309151745653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_138
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 473
+        width: 265
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0734a0db09c3f1a0800000000000000
+      internalID: -6776851961680218356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_139
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 473
+        width: 265
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c324fc3e82c10ac0800000000000000
+      internalID: -3890614686907620410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_140
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 473
+        width: 265
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d24e15d098eb920800000000000000
+      internalID: 3007992291431558469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_141
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 473
+        width: 265
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a31c1f9a2a3f30800000000000000
+      internalID: 4556000835897893141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_142
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 473
+        width: 264
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a5c8743cfcaea00800000000000000
+      internalID: 786669522555525685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_143
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 473
+        width: 264
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2947a79d3e7fb4590800000000000000
+      internalID: -7688779380826671982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_144
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 473
+        width: 263
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b61eb1d228be640800000000000000
+      internalID: 5110321332434856744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_145
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 473
+        width: 263
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29252c0501428e7d0800000000000000
+      internalID: -2889019508465184110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_146
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 473
+        width: 263
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a069986c04a79c6b0800000000000000
+      internalID: -5275551069860424182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_147
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 269
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286ef59ac063ffb0800000000000000
+      internalID: -4615238769908488154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_148
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 269
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51179b9cec5fe7820800000000000000
+      internalID: 2918039877079101717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_149
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 171
+        width: 269
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e735fffa43a921c0800000000000000
+      internalID: -4527908407827154970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_150
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 171
+        width: 269
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0710adc5b95ed7840800000000000000
+      internalID: 5223583598260126064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_151
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 171
+        width: 269
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e487ebe0a34790800000000000000
+      internalID: -7547011615480813133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_152
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 171
+        width: 269
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e7eb7586e5372b0800000000000000
+      internalID: -5588018910394941844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_153
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 171
+        width: 269
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc694b9e3aaa04640800000000000000
+      internalID: 5062233602141755083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_154
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 171
+        width: 269
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6300db76bf4912ea0800000000000000
+      internalID: -5899270229380497354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_155
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 171
+        width: 269
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c6b036c9cdccc40800000000000000
+      internalID: 5534040606366198848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_156
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 171
+        width: 268
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de16f1e21532ec30800000000000000
+      internalID: 4387127342228971220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_157
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 171
+        width: 268
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2530c191ada977160800000000000000
+      internalID: 7023252405422392146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_158
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 171
+        width: 268
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57689f6729386dac0800000000000000
+      internalID: -3830729767947499915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koosh_avatar_159
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 171
+        width: 267
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3688286b00431f630800000000000000
+      internalID: 3959002725102028899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      koosh_avatar_0: -5695881393627681632
+      koosh_avatar_1: 2474316842857300219
+      koosh_avatar_10: -3963139899525453796
+      koosh_avatar_100: 8741405347132784855
+      koosh_avatar_101: -2924081401684913582
+      koosh_avatar_102: -606583068619631873
+      koosh_avatar_103: 1274298078053080544
+      koosh_avatar_104: -7121652329656026154
+      koosh_avatar_105: 5407722516428806254
+      koosh_avatar_106: -1989728585946492592
+      koosh_avatar_107: 4384482725412118141
+      koosh_avatar_108: -7693968613689621716
+      koosh_avatar_109: -2515055660898148473
+      koosh_avatar_11: -6286200801268127286
+      koosh_avatar_110: -8654969375613766921
+      koosh_avatar_111: -4692610150863181345
+      koosh_avatar_112: 1378119472150496585
+      koosh_avatar_113: -3946200726224267464
+      koosh_avatar_114: 8258041581743079364
+      koosh_avatar_115: 9202769351170910589
+      koosh_avatar_116: 4609904055537617810
+      koosh_avatar_117: 3970990006409456667
+      koosh_avatar_118: 2584724648424361819
+      koosh_avatar_119: -4506138173647526085
+      koosh_avatar_12: -6480859930346110723
+      koosh_avatar_120: -64070066137877554
+      koosh_avatar_121: 3875894594831206095
+      koosh_avatar_122: -3942723978225755856
+      koosh_avatar_123: 5266481767586578590
+      koosh_avatar_124: -3821181626531001760
+      koosh_avatar_125: -3905817202768627806
+      koosh_avatar_126: 654997285487717554
+      koosh_avatar_127: -1369877647828872783
+      koosh_avatar_128: 3911189495242245190
+      koosh_avatar_129: -8340087034612763097
+      koosh_avatar_13: 3070398747821316460
+      koosh_avatar_130: 3502859902720956695
+      koosh_avatar_131: 3366875275616825661
+      koosh_avatar_132: -531429718704212701
+      koosh_avatar_133: 7218899083312348131
+      koosh_avatar_134: -7085513094314122631
+      koosh_avatar_135: -8398062122893642531
+      koosh_avatar_136: 2963218588476449021
+      koosh_avatar_137: -5716597309151745653
+      koosh_avatar_138: -6776851961680218356
+      koosh_avatar_139: -3890614686907620410
+      koosh_avatar_14: -1893910776829552820
+      koosh_avatar_140: 3007992291431558469
+      koosh_avatar_141: 4556000835897893141
+      koosh_avatar_142: 786669522555525685
+      koosh_avatar_143: -7688779380826671982
+      koosh_avatar_144: 5110321332434856744
+      koosh_avatar_145: -2889019508465184110
+      koosh_avatar_146: -5275551069860424182
+      koosh_avatar_147: -4615238769908488154
+      koosh_avatar_148: 2918039877079101717
+      koosh_avatar_149: -4527908407827154970
+      koosh_avatar_15: -1413516446689215134
+      koosh_avatar_150: 5223583598260126064
+      koosh_avatar_151: -7547011615480813133
+      koosh_avatar_152: -5588018910394941844
+      koosh_avatar_153: 5062233602141755083
+      koosh_avatar_154: -5899270229380497354
+      koosh_avatar_155: 5534040606366198848
+      koosh_avatar_156: 4387127342228971220
+      koosh_avatar_157: 7023252405422392146
+      koosh_avatar_158: -3830729767947499915
+      koosh_avatar_159: 3959002725102028899
+      koosh_avatar_16: 4217278984690173855
+      koosh_avatar_17: 1708334355011032427
+      koosh_avatar_18: 3293744233954869856
+      koosh_avatar_19: 8130045091439272250
+      koosh_avatar_2: -156524792368035603
+      koosh_avatar_20: 8193083536070595402
+      koosh_avatar_21: 6638868910569546012
+      koosh_avatar_22: 4917078699298861185
+      koosh_avatar_23: -719487896508422213
+      koosh_avatar_24: -3364326946616696908
+      koosh_avatar_25: -9164916399401032937
+      koosh_avatar_26: 9173477769893041881
+      koosh_avatar_27: -7713179944336685970
+      koosh_avatar_28: 2089406988957426445
+      koosh_avatar_29: 8168355664215260724
+      koosh_avatar_3: 1152735766792028616
+      koosh_avatar_30: 2469635265624811463
+      koosh_avatar_31: 6761104751534005772
+      koosh_avatar_32: -8354584311699178853
+      koosh_avatar_33: 621629546012352685
+      koosh_avatar_34: -1162994684764687720
+      koosh_avatar_35: 8606188766332763652
+      koosh_avatar_36: -6014268708480764781
+      koosh_avatar_37: 2605917767565774511
+      koosh_avatar_38: -8747990356405038514
+      koosh_avatar_39: -3397991270605993147
+      koosh_avatar_4: 8895170385326131876
+      koosh_avatar_40: 5921384706542332258
+      koosh_avatar_41: 7813480762018813456
+      koosh_avatar_42: -6754576343355610436
+      koosh_avatar_43: -8511820516842739502
+      koosh_avatar_44: -7061420727840307314
+      koosh_avatar_45: -8575375555738913711
+      koosh_avatar_46: 4186929581850055869
+      koosh_avatar_47: 5922351322743722319
+      koosh_avatar_48: -2937177366818259134
+      koosh_avatar_49: 9045556199319593991
+      koosh_avatar_5: -5900733328469809595
+      koosh_avatar_50: 3275106808787016370
+      koosh_avatar_51: 6943573142118117648
+      koosh_avatar_52: 4241409040064691890
+      koosh_avatar_53: 911837694794132423
+      koosh_avatar_54: 8982400010580581770
+      koosh_avatar_55: -8891811276362051443
+      koosh_avatar_56: 8929367821962211405
+      koosh_avatar_57: 2423331341427806981
+      koosh_avatar_58: -1203162962214356809
+      koosh_avatar_59: 686595420610249233
+      koosh_avatar_6: 5657615048130480355
+      koosh_avatar_60: -7882520521210896389
+      koosh_avatar_61: 5299596166767112028
+      koosh_avatar_62: 5015783994483930037
+      koosh_avatar_63: 6280116768540428537
+      koosh_avatar_64: 6653096039115940484
+      koosh_avatar_65: 3635958526114543340
+      koosh_avatar_66: 4660147092701250449
+      koosh_avatar_67: 6479985165275907437
+      koosh_avatar_68: -57776950685362758
+      koosh_avatar_69: 1084638630851411922
+      koosh_avatar_7: -1804320191445895168
+      koosh_avatar_70: 6844412485786516901
+      koosh_avatar_71: -7083686891499583628
+      koosh_avatar_72: 8839949347124256922
+      koosh_avatar_73: -8616084952547257729
+      koosh_avatar_74: -3550052337145658850
+      koosh_avatar_75: 1993409643565346901
+      koosh_avatar_76: -365623475078375975
+      koosh_avatar_77: -4443318221892833868
+      koosh_avatar_78: -6412306521394673550
+      koosh_avatar_79: 5445398202990721187
+      koosh_avatar_8: -885145603496539501
+      koosh_avatar_80: 3479154596917463996
+      koosh_avatar_81: 2386006713843918345
+      koosh_avatar_82: -4256529801437117115
+      koosh_avatar_83: 1632815803060070082
+      koosh_avatar_84: 8817655756707305518
+      koosh_avatar_85: -8850270571348878360
+      koosh_avatar_86: -7149373897404616338
+      koosh_avatar_87: -7071183205650922960
+      koosh_avatar_88: 2676554842654758495
+      koosh_avatar_89: 3369160224731158962
+      koosh_avatar_9: 6282517382093220563
+      koosh_avatar_90: -3214317254355398550
+      koosh_avatar_91: -2010710241702548268
+      koosh_avatar_92: -3000849247481518185
+      koosh_avatar_93: -6919591547895525851
+      koosh_avatar_94: 4654225291727957233
+      koosh_avatar_95: 4624825686473483907
+      koosh_avatar_96: -7226670585432507300
+      koosh_avatar_97: 2325327700540602817
+      koosh_avatar_98: 2583472308333893545
+      koosh_avatar_99: -2986852363322021388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

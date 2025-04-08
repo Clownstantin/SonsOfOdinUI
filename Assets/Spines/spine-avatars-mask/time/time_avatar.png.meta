@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: 7be107643efae8c4a956d7a09cf1d0a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1124911476694318637
+    second: time_avatar_0
+  - first:
+      213: -183929880100011821
+    second: time_avatar_1
+  - first:
+      213: 2450665815821793933
+    second: time_avatar_2
+  - first:
+      213: 8091165731459476171
+    second: time_avatar_3
+  - first:
+      213: -868412476658089882
+    second: time_avatar_4
+  - first:
+      213: 8050488988817647576
+    second: time_avatar_5
+  - first:
+      213: 3965136854876235680
+    second: time_avatar_6
+  - first:
+      213: 4495463676185249166
+    second: time_avatar_7
+  - first:
+      213: -8087185880531294310
+    second: time_avatar_8
+  - first:
+      213: 1967162757647038297
+    second: time_avatar_9
+  - first:
+      213: 4285155039612400590
+    second: time_avatar_10
+  - first:
+      213: 5909868253457024279
+    second: time_avatar_11
+  - first:
+      213: -1378704399609236303
+    second: time_avatar_12
+  - first:
+      213: 7420011082647142797
+    second: time_avatar_13
+  - first:
+      213: 7381064350842932351
+    second: time_avatar_14
+  - first:
+      213: 5127858042888449946
+    second: time_avatar_15
+  - first:
+      213: 5236128294019469389
+    second: time_avatar_16
+  - first:
+      213: -7121094024504012259
+    second: time_avatar_17
+  - first:
+      213: -3187005774304076167
+    second: time_avatar_18
+  - first:
+      213: -7862596563467641132
+    second: time_avatar_19
+  - first:
+      213: 495763219534325295
+    second: time_avatar_20
+  - first:
+      213: -5636408437729857144
+    second: time_avatar_21
+  - first:
+      213: 7631546600782216056
+    second: time_avatar_22
+  - first:
+      213: 4155219372482946983
+    second: time_avatar_23
+  - first:
+      213: -857523506599517237
+    second: time_avatar_24
+  - first:
+      213: 5822274800967829432
+    second: time_avatar_25
+  - first:
+      213: 3044780060055239748
+    second: time_avatar_26
+  - first:
+      213: 2024907720991619914
+    second: time_avatar_27
+  - first:
+      213: -5618666723327834517
+    second: time_avatar_28
+  - first:
+      213: 5624112053708455909
+    second: time_avatar_29
+  - first:
+      213: -530365377756864917
+    second: time_avatar_30
+  - first:
+      213: 4761129516838450354
+    second: time_avatar_31
+  - first:
+      213: -694653522133952397
+    second: time_avatar_32
+  - first:
+      213: 3181682220513629810
+    second: time_avatar_33
+  - first:
+      213: -5817912926446118948
+    second: time_avatar_34
+  - first:
+      213: 5223794554178996303
+    second: time_avatar_35
+  - first:
+      213: -2824152466493446565
+    second: time_avatar_36
+  - first:
+      213: -867947729448348558
+    second: time_avatar_37
+  - first:
+      213: -4643460128505464396
+    second: time_avatar_38
+  - first:
+      213: -3293174532250099244
+    second: time_avatar_39
+  - first:
+      213: 5272886200354094128
+    second: time_avatar_40
+  - first:
+      213: -1360330840153565681
+    second: time_avatar_41
+  - first:
+      213: -8999255892787260665
+    second: time_avatar_42
+  - first:
+      213: -2944662586281486818
+    second: time_avatar_43
+  - first:
+      213: 8353101703599056693
+    second: time_avatar_44
+  - first:
+      213: -1036944953702029969
+    second: time_avatar_45
+  - first:
+      213: -6424872479197298236
+    second: time_avatar_46
+  - first:
+      213: 7194476077401561382
+    second: time_avatar_47
+  - first:
+      213: -1049785257285900592
+    second: time_avatar_48
+  - first:
+      213: 2030425625660140719
+    second: time_avatar_49
+  - first:
+      213: -698402552748428695
+    second: time_avatar_50
+  - first:
+      213: 2308774651655953518
+    second: time_avatar_51
+  - first:
+      213: -2366182857031276578
+    second: time_avatar_52
+  - first:
+      213: -1697661293013717934
+    second: time_avatar_53
+  - first:
+      213: 1050638973525646022
+    second: time_avatar_54
+  - first:
+      213: 2707952598927703307
+    second: time_avatar_55
+  - first:
+      213: 3951790769959038394
+    second: time_avatar_56
+  - first:
+      213: -349657380020748933
+    second: time_avatar_57
+  - first:
+      213: -1455968355701292130
+    second: time_avatar_58
+  - first:
+      213: 6828443934115224865
+    second: time_avatar_59
+  - first:
+      213: -6170661553864010283
+    second: time_avatar_60
+  - first:
+      213: 7422327612286395669
+    second: time_avatar_61
+  - first:
+      213: 7368117724297526234
+    second: time_avatar_62
+  - first:
+      213: -3056388862331810473
+    second: time_avatar_63
+  - first:
+      213: -1229606388758015546
+    second: time_avatar_64
+  - first:
+      213: -6681846630198918256
+    second: time_avatar_65
+  - first:
+      213: 5045878963068168191
+    second: time_avatar_66
+  - first:
+      213: -7563618218780840883
+    second: time_avatar_67
+  - first:
+      213: 8729805023742135593
+    second: time_avatar_68
+  - first:
+      213: 5733949752321262414
+    second: time_avatar_69
+  - first:
+      213: 1464941682784025633
+    second: time_avatar_70
+  - first:
+      213: -5619908495484402768
+    second: time_avatar_71
+  - first:
+      213: 2484924133574342428
+    second: time_avatar_72
+  - first:
+      213: 4405846299088300240
+    second: time_avatar_73
+  - first:
+      213: -381434169778853277
+    second: time_avatar_74
+  - first:
+      213: 8217496277870873024
+    second: time_avatar_75
+  - first:
+      213: 1335113824828972963
+    second: time_avatar_76
+  - first:
+      213: -8231402938248887951
+    second: time_avatar_77
+  - first:
+      213: 7843201489142484131
+    second: time_avatar_78
+  - first:
+      213: -7857009107754639866
+    second: time_avatar_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: time_avatar_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1981
+        width: 286
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d100e3d8f28360f0800000000000000
+      internalID: -1124911476694318637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1981
+        width: 284
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d00f01afbc827df0800000000000000
+      internalID: -183929880100011821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1679
+        width: 287
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a30474393820220800000000000000
+      internalID: 2450665815821793933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1679
+        width: 287
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaa47a2d58994070800000000000000
+      internalID: 8091165731459476171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1679
+        width: 287
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660074a1477c2f3f0800000000000000
+      internalID: -868412476658089882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_5
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1679
+        width: 287
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76baef41519bf60800000000000000
+      internalID: 8050488988817647576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1679
+        width: 287
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a725b816fef60730800000000000000
+      internalID: 3965136854876235680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_7
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1679
+        width: 287
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8581bf3568136e30800000000000000
+      internalID: 4495463676185249166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_8
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1679
+        width: 287
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a0661a4b84cf80800000000000000
+      internalID: -8087185880531294310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_9
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1679
+        width: 287
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957fde80b14cc4b10800000000000000
+      internalID: 1967162757647038297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_10
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1679
+        width: 287
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec372970ecde77b30800000000000000
+      internalID: 4285155039612400590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_11
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 1679
+        width: 286
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7150aac5dd1140250800000000000000
+      internalID: 5909868253457024279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_12
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 1679
+        width: 286
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4f50b37abdddce0800000000000000
+      internalID: -1378704399609236303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_13
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1679
+        width: 286
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8105aa44cc29f660800000000000000
+      internalID: 7420011082647142797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_14
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1679
+        width: 286
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cca48abeece6660800000000000000
+      internalID: 7381064350842932351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1377
+        width: 289
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9feef0b8bfc92740800000000000000
+      internalID: 5127858042888449946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1377
+        width: 289
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d401763f0f67aa840800000000000000
+      internalID: 5236128294019469389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_17
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1377
+        width: 289
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121841c6bacc2d90800000000000000
+      internalID: -7121094024504012259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_18
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1377
+        width: 289
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e9c7d322b75c3d0800000000000000
+      internalID: -3187005774304076167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_19
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1377
+        width: 289
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dedd46551272e290800000000000000
+      internalID: -7862596563467641132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_20
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1377
+        width: 289
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f262c01850e41e600800000000000000
+      internalID: 495763219534325295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_21
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1377
+        width: 289
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881f81c836477c1b0800000000000000
+      internalID: -5636408437729857144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_22
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1377
+        width: 289
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bb6722333b8e960800000000000000
+      internalID: 7631546600782216056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_23
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1377
+        width: 289
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7eaa4010e4aa930800000000000000
+      internalID: 4155219372482946983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_24
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1377
+        width: 289
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3a6920ae67914f0800000000000000
+      internalID: -857523506599517237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_25
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1377
+        width: 288
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b745607510ecc050800000000000000
+      internalID: 5822274800967829432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_26
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1377
+        width: 288
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cf8ca255b314a20800000000000000
+      internalID: 3044780060055239748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_27
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1377
+        width: 287
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb6a408dae91c10800000000000000
+      internalID: 2024907720991619914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1075
+        width: 287
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b668cb4526c7602b0800000000000000
+      internalID: -5618666723327834517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1075
+        width: 287
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff8427d1cdc0e40800000000000000
+      internalID: 5624112053708455909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1075
+        width: 287
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed2a9bf73c3a8f0800000000000000
+      internalID: -530365377756864917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_31
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1075
+        width: 287
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b478cce11ee21240800000000000000
+      internalID: 4761129516838450354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_32
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1075
+        width: 287
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785b335d481c56f0800000000000000
+      internalID: -694653522133952397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_33
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1075
+        width: 287
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27614ed4f1b972c20800000000000000
+      internalID: 3181682220513629810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_34
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1075
+        width: 287
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7960d940f924fa0800000000000000
+      internalID: -5817912926446118948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_35
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1075
+        width: 287
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48857d5875ae7840800000000000000
+      internalID: 5223794554178996303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_36
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1075
+        width: 288
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b566d137b489ec8d0800000000000000
+      internalID: -2824152466493446565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_37
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 1075
+        width: 288
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274df9e732e64f3f0800000000000000
+      internalID: -867947729448348558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_38
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 1075
+        width: 289
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9fdbf7d9d1f8fb0800000000000000
+      internalID: -4643460128505464396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_39
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1075
+        width: 289
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1aeddf53b4c42d0800000000000000
+      internalID: -3293174532250099244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_40
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 1075
+        width: 289
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c3a21ff0e0d2940800000000000000
+      internalID: 5272886200354094128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 773
+        width: 283
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0653a7ee422f1de0800000000000000
+      internalID: -1360330840153565681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_42
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 773
+        width: 283
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703139312783c1380800000000000000
+      internalID: -8999255892787260665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_43
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 773
+        width: 283
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e161f41baf47227d0800000000000000
+      internalID: -2944662586281486818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_44
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 773
+        width: 283
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5376bb72ebd2ce370800000000000000
+      internalID: 8353101703599056693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_45
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 773
+        width: 285
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65e4fefe080c91f0800000000000000
+      internalID: -1036944953702029969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_46
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 773
+        width: 285
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c10346458446d6a0800000000000000
+      internalID: -6424872479197298236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_47
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 773
+        width: 286
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629d09adfd9e7d360800000000000000
+      internalID: 7194476077401561382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_48
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 773
+        width: 286
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d62809ded96e61f0800000000000000
+      internalID: -1049785257285900592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_49
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 773
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faca25059558d2c10800000000000000
+      internalID: 2030425625660140719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_50
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 773
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962343d1496ce46f0800000000000000
+      internalID: -698402552748428695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_51
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 773
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c1162305a6a0020800000000000000
+      internalID: 2308774651655953518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_52
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 773
+        width: 287
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed728056a31a92fd0800000000000000
+      internalID: -2366182857031276578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_53
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 773
+        width: 287
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cacf07c02b078e0800000000000000
+      internalID: -1697661293013717934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 471
+        width: 282
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca5d24749e949e00800000000000000
+      internalID: 1050638973525646022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_55
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 471
+        width: 282
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d7ea79a84949520800000000000000
+      internalID: 2707952598927703307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_56
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 471
+        width: 283
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd631e84c497d630800000000000000
+      internalID: 3951790769959038394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_57
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 471
+        width: 283
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7df4c62774c52bf0800000000000000
+      internalID: -349657380020748933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_58
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 471
+        width: 282
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93073a9e7c5bcbe0800000000000000
+      internalID: -1455968355701292130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_59
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 471
+        width: 282
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ddb95549183ce50800000000000000
+      internalID: 6828443934115224865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_60
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 471
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d596c4a2086d5aa0800000000000000
+      internalID: -6170661553864010283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_61
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 471
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51567e063a7610760800000000000000
+      internalID: 7422327612286395669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_62
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 471
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb73044800d04660800000000000000
+      internalID: 7368117724297526234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_63
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 471
+        width: 283
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d804de5868595d0800000000000000
+      internalID: -3056388862331810473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_64
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 471
+        width: 283
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c11780118f8feee0800000000000000
+      internalID: -1229606388758015546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_65
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 471
+        width: 283
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0934a5b44ef4543a0800000000000000
+      internalID: -6681846630198918256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_66
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 471
+        width: 283
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff76b45ce20960640800000000000000
+      internalID: 5045878963068168191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 169
+        width: 285
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c25e4cd41a80790800000000000000
+      internalID: -7563618218780840883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 169
+        width: 283
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d0296aa6f762970800000000000000
+      internalID: 8729805023742135593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_69
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 169
+        width: 283
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e434c038be4139f40800000000000000
+      internalID: 5733949752321262414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_70
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 169
+        width: 283
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c310be2b4845410800000000000000
+      internalID: 1464941682784025633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_71
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 169
+        width: 283
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3c378bff21202b0800000000000000
+      internalID: -5619908495484402768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_72
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 169
+        width: 283
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c177e7375593c7220800000000000000
+      internalID: 2484924133574342428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_73
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 169
+        width: 283
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8a028add5b42d30800000000000000
+      internalID: 4405846299088300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_74
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 169
+        width: 283
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aa22db4afd4baf0800000000000000
+      internalID: -381434169778853277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_75
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 169
+        width: 283
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9869993596a0270800000000000000
+      internalID: 8217496277870873024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_76
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 169
+        width: 283
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afd4af23f6478210800000000000000
+      internalID: 1335113824828972963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_77
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 169
+        width: 283
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1718196b3ae24cd80800000000000000
+      internalID: -8231402938248887951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_78
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 169
+        width: 282
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac07260336a8dc60800000000000000
+      internalID: 7843201489142484131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_avatar_79
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 169
+        width: 283
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e964f38db46f290800000000000000
+      internalID: -7857009107754639866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      time_avatar_0: -1124911476694318637
+      time_avatar_1: -183929880100011821
+      time_avatar_10: 4285155039612400590
+      time_avatar_11: 5909868253457024279
+      time_avatar_12: -1378704399609236303
+      time_avatar_13: 7420011082647142797
+      time_avatar_14: 7381064350842932351
+      time_avatar_15: 5127858042888449946
+      time_avatar_16: 5236128294019469389
+      time_avatar_17: -7121094024504012259
+      time_avatar_18: -3187005774304076167
+      time_avatar_19: -7862596563467641132
+      time_avatar_2: 2450665815821793933
+      time_avatar_20: 495763219534325295
+      time_avatar_21: -5636408437729857144
+      time_avatar_22: 7631546600782216056
+      time_avatar_23: 4155219372482946983
+      time_avatar_24: -857523506599517237
+      time_avatar_25: 5822274800967829432
+      time_avatar_26: 3044780060055239748
+      time_avatar_27: 2024907720991619914
+      time_avatar_28: -5618666723327834517
+      time_avatar_29: 5624112053708455909
+      time_avatar_3: 8091165731459476171
+      time_avatar_30: -530365377756864917
+      time_avatar_31: 4761129516838450354
+      time_avatar_32: -694653522133952397
+      time_avatar_33: 3181682220513629810
+      time_avatar_34: -5817912926446118948
+      time_avatar_35: 5223794554178996303
+      time_avatar_36: -2824152466493446565
+      time_avatar_37: -867947729448348558
+      time_avatar_38: -4643460128505464396
+      time_avatar_39: -3293174532250099244
+      time_avatar_4: -868412476658089882
+      time_avatar_40: 5272886200354094128
+      time_avatar_41: -1360330840153565681
+      time_avatar_42: -8999255892787260665
+      time_avatar_43: -2944662586281486818
+      time_avatar_44: 8353101703599056693
+      time_avatar_45: -1036944953702029969
+      time_avatar_46: -6424872479197298236
+      time_avatar_47: 7194476077401561382
+      time_avatar_48: -1049785257285900592
+      time_avatar_49: 2030425625660140719
+      time_avatar_5: 8050488988817647576
+      time_avatar_50: -698402552748428695
+      time_avatar_51: 2308774651655953518
+      time_avatar_52: -2366182857031276578
+      time_avatar_53: -1697661293013717934
+      time_avatar_54: 1050638973525646022
+      time_avatar_55: 2707952598927703307
+      time_avatar_56: 3951790769959038394
+      time_avatar_57: -349657380020748933
+      time_avatar_58: -1455968355701292130
+      time_avatar_59: 6828443934115224865
+      time_avatar_6: 3965136854876235680
+      time_avatar_60: -6170661553864010283
+      time_avatar_61: 7422327612286395669
+      time_avatar_62: 7368117724297526234
+      time_avatar_63: -3056388862331810473
+      time_avatar_64: -1229606388758015546
+      time_avatar_65: -6681846630198918256
+      time_avatar_66: 5045878963068168191
+      time_avatar_67: -7563618218780840883
+      time_avatar_68: 8729805023742135593
+      time_avatar_69: 5733949752321262414
+      time_avatar_7: 4495463676185249166
+      time_avatar_70: 1464941682784025633
+      time_avatar_71: -5619908495484402768
+      time_avatar_72: 2484924133574342428
+      time_avatar_73: 4405846299088300240
+      time_avatar_74: -381434169778853277
+      time_avatar_75: 8217496277870873024
+      time_avatar_76: 1335113824828972963
+      time_avatar_77: -8231402938248887951
+      time_avatar_78: 7843201489142484131
+      time_avatar_79: -7857009107754639866
+      time_avatar_8: -8087185880531294310
+      time_avatar_9: 1967162757647038297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

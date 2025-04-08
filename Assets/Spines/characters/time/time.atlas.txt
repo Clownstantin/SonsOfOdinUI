@@ -1,0 +1,41 @@
+time.png
+size:1024,2048
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:45,176,850,535
+offsets:0,434,940,1155
+Layer 10
+bounds:170,1297,121,293
+offsets:0,1,121,294
+Layer 11
+bounds:696,81,326,306
+Layer 12
+bounds:809,783,213,778
+offsets:0,58,213,836
+Layer 13
+bounds:2,899,178,773
+Layer 14
+bounds:122,855,174,194
+Layer 2
+bounds:580,1628,79,44
+Layer 2 Copy
+bounds:704,817,143,145
+Layer 3
+bounds:116,2,545,204
+Layer 4
+bounds:93,631,822,1041
+offsets:49,0,909,1041
+Layer 5
+bounds:666,1255,141,272
+Layer 6
+bounds:887,1621,67,51
+Layer 7
+bounds:704,1596,181,76
+Layer 8
+bounds:2,752,141,119
+Layer 9
+bounds:607,685,192,168
+head
+bounds:596,959,168,294
+offsets:4,0,172,294

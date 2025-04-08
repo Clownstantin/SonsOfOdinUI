@@ -1,0 +1,36 @@
+fury.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:860,2,1007,1353
+offsets:0,151,1215,1558
+Layer 10
+bounds:2572,443,603,912
+Layer 11
+bounds:1370,1273,110,82
+Layer 1111
+bounds:2,1252,1029,103
+Layer 12
+bounds:555,472,480,349
+Layer 13
+bounds:748,914,229,336
+Layer 2
+bounds:1823,580,914,775
+offsets:70,106,984,881
+Layer 3
+bounds:3177,697,429,658
+Layer 4
+bounds:2,709,751,541
+Layer 5
+bounds:3370,416,648,285
+offsets:0,0,648,286
+Layer 6
+bounds:2401,1282,78,73
+Layer 7
+bounds:2,524,421,231
+offsets:35,0,457,255
+Layer 8
+bounds:2685,1286,78,69
+Layer 9
+bounds:3608,678,288,677

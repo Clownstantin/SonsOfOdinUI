@@ -1,0 +1,4303 @@
+fileFormatVersion: 2
+guid: f51cd20ec69c57542bdf3dece5b686b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8792353099950166077
+    second: lave_avatar_0
+  - first:
+      213: 1086727945058362431
+    second: lave_avatar_1
+  - first:
+      213: 4147563722286150198
+    second: lave_avatar_2
+  - first:
+      213: 6754570445695144391
+    second: lave_avatar_3
+  - first:
+      213: -6172681968507969200
+    second: lave_avatar_4
+  - first:
+      213: 2790068893543083266
+    second: lave_avatar_5
+  - first:
+      213: -4704207672849065021
+    second: lave_avatar_6
+  - first:
+      213: 6595139341438540394
+    second: lave_avatar_7
+  - first:
+      213: -5316570420140263765
+    second: lave_avatar_8
+  - first:
+      213: 3562536475566287640
+    second: lave_avatar_9
+  - first:
+      213: -8349355736484721972
+    second: lave_avatar_10
+  - first:
+      213: -5523033164523056317
+    second: lave_avatar_11
+  - first:
+      213: -6473116445722095797
+    second: lave_avatar_12
+  - first:
+      213: 4739641020708973295
+    second: lave_avatar_13
+  - first:
+      213: -191353236846159786
+    second: lave_avatar_14
+  - first:
+      213: 2143521088271450065
+    second: lave_avatar_15
+  - first:
+      213: 5733687339168800720
+    second: lave_avatar_16
+  - first:
+      213: 6352505874861715607
+    second: lave_avatar_17
+  - first:
+      213: 5337461759036702343
+    second: lave_avatar_18
+  - first:
+      213: 3756323009730741174
+    second: lave_avatar_19
+  - first:
+      213: -2413707806071638454
+    second: lave_avatar_20
+  - first:
+      213: -1412630165728272297
+    second: lave_avatar_21
+  - first:
+      213: -66230170829024865
+    second: lave_avatar_22
+  - first:
+      213: -8383098306022465670
+    second: lave_avatar_23
+  - first:
+      213: -5217265525009062295
+    second: lave_avatar_24
+  - first:
+      213: -7234899693663060218
+    second: lave_avatar_25
+  - first:
+      213: 1222677271310355472
+    second: lave_avatar_26
+  - first:
+      213: 4530991169690398632
+    second: lave_avatar_27
+  - first:
+      213: 8852436776433079094
+    second: lave_avatar_28
+  - first:
+      213: 6748675814070888646
+    second: lave_avatar_29
+  - first:
+      213: 4812319111114467969
+    second: lave_avatar_30
+  - first:
+      213: -2961761467589395846
+    second: lave_avatar_31
+  - first:
+      213: -2731027145503622880
+    second: lave_avatar_32
+  - first:
+      213: -1534677158618772097
+    second: lave_avatar_33
+  - first:
+      213: -8039997985996899043
+    second: lave_avatar_34
+  - first:
+      213: 3699108216314192475
+    second: lave_avatar_35
+  - first:
+      213: -5055659206188706180
+    second: lave_avatar_36
+  - first:
+      213: -9035776314819925879
+    second: lave_avatar_37
+  - first:
+      213: -5101587871642840184
+    second: lave_avatar_38
+  - first:
+      213: -2120458570798085894
+    second: lave_avatar_39
+  - first:
+      213: 6843166695542157877
+    second: lave_avatar_40
+  - first:
+      213: 1045051272595691572
+    second: lave_avatar_41
+  - first:
+      213: -9100420524372517675
+    second: lave_avatar_42
+  - first:
+      213: 40589878616204094
+    second: lave_avatar_43
+  - first:
+      213: -707823992099700890
+    second: lave_avatar_44
+  - first:
+      213: -2845613366741036147
+    second: lave_avatar_45
+  - first:
+      213: 7677844442217433890
+    second: lave_avatar_46
+  - first:
+      213: 5996923163710971366
+    second: lave_avatar_47
+  - first:
+      213: 864829989098050825
+    second: lave_avatar_48
+  - first:
+      213: 3581458348845646500
+    second: lave_avatar_49
+  - first:
+      213: -3272966867855150133
+    second: lave_avatar_50
+  - first:
+      213: 6139915400519232140
+    second: lave_avatar_51
+  - first:
+      213: -8605585163471927688
+    second: lave_avatar_52
+  - first:
+      213: -3579107676704268388
+    second: lave_avatar_53
+  - first:
+      213: 4385188657476140764
+    second: lave_avatar_54
+  - first:
+      213: 4364906847356307043
+    second: lave_avatar_55
+  - first:
+      213: -2821683297657683310
+    second: lave_avatar_56
+  - first:
+      213: 3751416230583773259
+    second: lave_avatar_57
+  - first:
+      213: 8016641645701473757
+    second: lave_avatar_58
+  - first:
+      213: 3639534948442981330
+    second: lave_avatar_59
+  - first:
+      213: 4234275267666650855
+    second: lave_avatar_60
+  - first:
+      213: -8646548034611129999
+    second: lave_avatar_61
+  - first:
+      213: 37327935698387245
+    second: lave_avatar_62
+  - first:
+      213: -5377119690697298769
+    second: lave_avatar_63
+  - first:
+      213: 1023941664347320801
+    second: lave_avatar_64
+  - first:
+      213: -7440643586789909589
+    second: lave_avatar_65
+  - first:
+      213: -3651634044621839568
+    second: lave_avatar_66
+  - first:
+      213: -2249681030396117904
+    second: lave_avatar_67
+  - first:
+      213: -8207859718518614377
+    second: lave_avatar_68
+  - first:
+      213: -8989390801597482252
+    second: lave_avatar_69
+  - first:
+      213: -7166846003578661537
+    second: lave_avatar_70
+  - first:
+      213: 4763764026702403807
+    second: lave_avatar_71
+  - first:
+      213: -6275667269117759199
+    second: lave_avatar_72
+  - first:
+      213: -6824571220581867343
+    second: lave_avatar_73
+  - first:
+      213: -5265522210508142536
+    second: lave_avatar_74
+  - first:
+      213: -4691778606683229186
+    second: lave_avatar_75
+  - first:
+      213: -6927745815369215857
+    second: lave_avatar_76
+  - first:
+      213: -1819808085689780436
+    second: lave_avatar_77
+  - first:
+      213: 9001606973300729532
+    second: lave_avatar_78
+  - first:
+      213: 7675058079933370630
+    second: lave_avatar_79
+  - first:
+      213: -3910158630486478375
+    second: lave_avatar_80
+  - first:
+      213: -3870339543327843185
+    second: lave_avatar_81
+  - first:
+      213: -1200176319492770948
+    second: lave_avatar_82
+  - first:
+      213: 2730330036859749612
+    second: lave_avatar_83
+  - first:
+      213: 8713427143950895517
+    second: lave_avatar_84
+  - first:
+      213: -8325765267414330835
+    second: lave_avatar_85
+  - first:
+      213: 8453782047273531867
+    second: lave_avatar_86
+  - first:
+      213: -4900576084336306923
+    second: lave_avatar_87
+  - first:
+      213: -6027921118434581599
+    second: lave_avatar_88
+  - first:
+      213: 9150135172777703313
+    second: lave_avatar_89
+  - first:
+      213: 1423019307659640606
+    second: lave_avatar_90
+  - first:
+      213: -7748735778626144808
+    second: lave_avatar_91
+  - first:
+      213: -7929280414513257546
+    second: lave_avatar_92
+  - first:
+      213: -4974726984688246044
+    second: lave_avatar_93
+  - first:
+      213: 4517226006268557856
+    second: lave_avatar_94
+  - first:
+      213: -143230867776268184
+    second: lave_avatar_95
+  - first:
+      213: -3670967654758406736
+    second: lave_avatar_96
+  - first:
+      213: 1949673598538311694
+    second: lave_avatar_97
+  - first:
+      213: -1352094409807586224
+    second: lave_avatar_98
+  - first:
+      213: 717835656077903350
+    second: lave_avatar_99
+  - first:
+      213: -950196087806278626
+    second: lave_avatar_100
+  - first:
+      213: 4649696293976547525
+    second: lave_avatar_101
+  - first:
+      213: 559574248525196229
+    second: lave_avatar_102
+  - first:
+      213: -3374402469234286714
+    second: lave_avatar_103
+  - first:
+      213: 4981399486307537083
+    second: lave_avatar_104
+  - first:
+      213: 6518338036476427313
+    second: lave_avatar_105
+  - first:
+      213: 4745262141725340070
+    second: lave_avatar_106
+  - first:
+      213: 4156666083635778528
+    second: lave_avatar_107
+  - first:
+      213: 8054458548434193100
+    second: lave_avatar_108
+  - first:
+      213: 6420056673723702631
+    second: lave_avatar_109
+  - first:
+      213: 8112753653056049220
+    second: lave_avatar_110
+  - first:
+      213: -4554371562564649986
+    second: lave_avatar_111
+  - first:
+      213: -6575014126850358644
+    second: lave_avatar_112
+  - first:
+      213: 5574128295734612094
+    second: lave_avatar_113
+  - first:
+      213: 2171956042243238227
+    second: lave_avatar_114
+  - first:
+      213: 912652385732178758
+    second: lave_avatar_115
+  - first:
+      213: 2488549467253700694
+    second: lave_avatar_116
+  - first:
+      213: -5219802641730575629
+    second: lave_avatar_117
+  - first:
+      213: 8480532452424933683
+    second: lave_avatar_118
+  - first:
+      213: 157376993155889152
+    second: lave_avatar_119
+  - first:
+      213: 6133491977645551380
+    second: lave_avatar_120
+  - first:
+      213: 5988838253648699255
+    second: lave_avatar_121
+  - first:
+      213: 8771282243514262507
+    second: lave_avatar_122
+  - first:
+      213: 5881486810241559131
+    second: lave_avatar_123
+  - first:
+      213: 877671577619257125
+    second: lave_avatar_124
+  - first:
+      213: -6288777302207657529
+    second: lave_avatar_125
+  - first:
+      213: -977551111205923813
+    second: lave_avatar_126
+  - first:
+      213: 5214214829455215197
+    second: lave_avatar_127
+  - first:
+      213: -9147332415063265422
+    second: lave_avatar_128
+  - first:
+      213: -4491212664358573833
+    second: lave_avatar_129
+  - first:
+      213: 6062362782437098158
+    second: lave_avatar_130
+  - first:
+      213: 7717913801524375395
+    second: lave_avatar_131
+  - first:
+      213: -7447415956575232171
+    second: lave_avatar_132
+  - first:
+      213: 4692048767492173665
+    second: lave_avatar_133
+  - first:
+      213: -3107030723435904865
+    second: lave_avatar_134
+  - first:
+      213: -1535016607956599750
+    second: lave_avatar_135
+  - first:
+      213: 5870867406698055051
+    second: lave_avatar_136
+  - first:
+      213: 1131162229105548896
+    second: lave_avatar_137
+  - first:
+      213: 3984596982602769827
+    second: lave_avatar_138
+  - first:
+      213: 7047858246296460088
+    second: lave_avatar_139
+  - first:
+      213: 7063069814996188659
+    second: lave_avatar_140
+  - first:
+      213: -886926727638665754
+    second: lave_avatar_141
+  - first:
+      213: 1138916879383998522
+    second: lave_avatar_142
+  - first:
+      213: -6195836192275896985
+    second: lave_avatar_143
+  - first:
+      213: 1727788052802347488
+    second: lave_avatar_144
+  - first:
+      213: -5845615380394026176
+    second: lave_avatar_145
+  - first:
+      213: -5244979199623766128
+    second: lave_avatar_146
+  - first:
+      213: 4844903641242489737
+    second: lave_avatar_147
+  - first:
+      213: -5487745782381927285
+    second: lave_avatar_148
+  - first:
+      213: -2465269038500322733
+    second: lave_avatar_149
+  - first:
+      213: -5972244179866870726
+    second: lave_avatar_150
+  - first:
+      213: -306464821823626054
+    second: lave_avatar_151
+  - first:
+      213: -6168312848546166976
+    second: lave_avatar_152
+  - first:
+      213: -4399870323276497407
+    second: lave_avatar_153
+  - first:
+      213: -5169487910800318472
+    second: lave_avatar_154
+  - first:
+      213: -975829253768194175
+    second: lave_avatar_155
+  - first:
+      213: 1352735495527002178
+    second: lave_avatar_156
+  - first:
+      213: 3382933115620448626
+    second: lave_avatar_157
+  - first:
+      213: 3999443936678841070
+    second: lave_avatar_158
+  - first:
+      213: -6498974995234316032
+    second: lave_avatar_159
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lave_avatar_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3795
+        width: 264
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30955e7f86b40a70800000000000000
+      internalID: 8792353099950166077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3795
+        width: 264
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a1bcee45d41f00800000000000000
+      internalID: 1086727945058362431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3795
+        width: 264
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b92e0b3b1f8930800000000000000
+      internalID: 4147563722286150198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3795
+        width: 264
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d20a780e0dbd50800000000000000
+      internalID: 6754570445695144391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3493
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051af93347a365aa0800000000000000
+      internalID: -6172681968507969200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3493
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20da08250e058b620800000000000000
+      internalID: 2790068893543083266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_6
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3493
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb1a26ab0c47beb0800000000000000
+      internalID: -4704207672849065021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3493
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ad5aad944a68b50800000000000000
+      internalID: 6595139341438540394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_8
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 3493
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b03c0f5fb736b0800000000000000
+      internalID: -5316570420140263765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_9
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3493
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b2085ac0ca07130800000000000000
+      internalID: 3562536475566287640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_10
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3493
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca4577c131212c80800000000000000
+      internalID: -8349355736484721972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_11
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3493
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d6e1699e3a53b0800000000000000
+      internalID: -5523033164523056317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_12
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 3493
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fcefe73eeda26a0800000000000000
+      internalID: -6473116445722095797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_13
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3493
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea6a3a856696c140800000000000000
+      internalID: 4739641020708973295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_14
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 3493
+        width: 264
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d923be3d285df0800000000000000
+      internalID: -191353236846159786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_15
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 3493
+        width: 264
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df7afaa2115fbd10800000000000000
+      internalID: 2143521088271450065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_16
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 3493
+        width: 264
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df9f40b146229f40800000000000000
+      internalID: 5733687339168800720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3191
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790f6b8af62a82850800000000000000
+      internalID: 6352505874861715607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3191
+        width: 271
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e3d95d039721a40800000000000000
+      internalID: 5337461759036702343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3191
+        width: 271
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b380a020e3212430800000000000000
+      internalID: 3756323009730741174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_20
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 3191
+        width: 271
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46338be989c08ed0800000000000000
+      internalID: -2413707806071638454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_21
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 3191
+        width: 270
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750e3c44954556ce0800000000000000
+      internalID: -1412630165728272297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_22
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 3191
+        width: 268
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f919252b204b41ff0800000000000000
+      internalID: -66230170829024865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_23
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 3191
+        width: 267
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f1a58918049ab80800000000000000
+      internalID: -8383098306022465670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_24
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 3191
+        width: 267
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96661f2b5ac8897b0800000000000000
+      internalID: -5217265525009062295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_25
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 3191
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f71ad8f09789b90800000000000000
+      internalID: -7234899693663060218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_26
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 3191
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cc56f0082d7f010800000000000000
+      internalID: 1222677271310355472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_27
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 3191
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afe3dd667051ee30800000000000000
+      internalID: 4530991169690398632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_28
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 3191
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d5ef885c2ada70800000000000000
+      internalID: 8852436776433079094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_29
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 3191
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c827f995ec18ad50800000000000000
+      internalID: 6748675814070888646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2889
+        width: 277
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a2dcb1cbac8c240800000000000000
+      internalID: 4812319111114467969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2889
+        width: 277
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7af4e623a5b5e6d0800000000000000
+      internalID: -2961761467589395846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_32
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2889
+        width: 277
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029be40e741791ad0800000000000000
+      internalID: -2731027145503622880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_33
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2889
+        width: 277
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d4f9b514bb3bae0800000000000000
+      internalID: -1534677158618772097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_34
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2889
+        width: 277
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d7cc1fd603c6090800000000000000
+      internalID: -8039997985996899043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_35
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2889
+        width: 277
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52e223f25fd55330800000000000000
+      internalID: 3699108216314192475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_36
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 2889
+        width: 275
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7650bdecb0b6d9b0800000000000000
+      internalID: -5055659206188706180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_37
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2889
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9882545b0597a9280800000000000000
+      internalID: -9035776314819925879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_38
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2889
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88399403cd48339b0800000000000000
+      internalID: -5101587871642840184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_39
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2889
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c5ae1a2e9292e0800000000000000
+      internalID: -2120458570798085894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_40
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 2889
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f29a5adfc7fe50800000000000000
+      internalID: 6843166695542157877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_41
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 2889
+        width: 274
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438d2237894c08e00800000000000000
+      internalID: 1045051272595691572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_42
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2889
+        width: 272
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc1a1acfbfc4b180800000000000000
+      internalID: -9100420524372517675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2587
+        width: 274
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3325609744309000800000000000000
+      internalID: 40589878616204094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2587
+        width: 274
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ff56354dd4d26f0800000000000000
+      internalID: -707823992099700890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_45
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2587
+        width: 275
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d831c4b38b95288d0800000000000000
+      internalID: -2845613366741036147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_46
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2587
+        width: 275
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc31b57de2d8a60800000000000000
+      internalID: 7677844442217433890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_47
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2587
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eddd4628d9593350800000000000000
+      internalID: 5996923163710971366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_48
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2587
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9055b430b4e700c00800000000000000
+      internalID: 864829989098050825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_49
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2587
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a24dc49465e3b130800000000000000
+      internalID: 3581458348845646500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_50
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 2587
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3fedf79f51492d0800000000000000
+      internalID: -3272966867855150133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_51
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2587
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a26eea68c553550800000000000000
+      internalID: 6139915400519232140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_52
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 2587
+        width: 277
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87642ee53e1d29880800000000000000
+      internalID: -8605585163471927688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_53
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 2587
+        width: 277
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f1b2de784745ec0800000000000000
+      internalID: -3579107676704268388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_54
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 2587
+        width: 277
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeffe9a9d15bdc30800000000000000
+      internalID: 4385188657476140764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_55
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 2587
+        width: 277
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c752c6a3439c30800000000000000
+      internalID: 4364906847356307043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2285
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292067e9dfd57d8d0800000000000000
+      internalID: -2821683297657683310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_57
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2285
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48a4949f25bf0430800000000000000
+      internalID: 3751416230583773259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_58
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2285
+        width: 267
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5a3af4a15d04f60800000000000000
+      internalID: 8016641645701473757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_59
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2285
+        width: 267
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d34095a0c9328230800000000000000
+      internalID: 3639534948442981330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_60
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2285
+        width: 268
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e62e7afbea23ca30800000000000000
+      internalID: 4234275267666650855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_61
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2285
+        width: 270
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171d6a7bf5a410880800000000000000
+      internalID: -8646548034611129999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_62
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 2285
+        width: 271
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21408b4f8d948000800000000000000
+      internalID: 37327935698387245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_63
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2285
+        width: 271
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facaa396122a065b0800000000000000
+      internalID: -5377119690697298769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_64
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2285
+        width: 271
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1f426c485c53e00800000000000000
+      internalID: 1023941664347320801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_65
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2285
+        width: 272
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab591d74168db890800000000000000
+      internalID: -7440643586789909589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_66
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 2285
+        width: 272
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033a7900f2ac25dc0800000000000000
+      internalID: -3651634044621839568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_67
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 2285
+        width: 273
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cfd4da50787c0e0800000000000000
+      internalID: -2249681030396117904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_68
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2285
+        width: 274
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796d577b213d71e80800000000000000
+      internalID: -8207859718518614377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1983
+        width: 264
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa3e9b91b44f3380800000000000000
+      internalID: -8989390801597482252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1983
+        width: 264
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5514c4088f3a8c90800000000000000
+      internalID: -7166846003578661537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_71
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1983
+        width: 264
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8916d842a4c1240800000000000000
+      internalID: 4763764026702403807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_72
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1983
+        width: 264
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121b0bf5ed958e8a0800000000000000
+      internalID: -6275667269117759199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_73
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1983
+        width: 264
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b02ddc02a04a41a0800000000000000
+      internalID: -6824571220581867343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_74
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1983
+        width: 265
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8388bbd827b1de6b0800000000000000
+      internalID: -5265522210508142536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_75
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1983
+        width: 265
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef37edf173473eeb0800000000000000
+      internalID: -4691778606683229186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_76
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1983
+        width: 265
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8018bcb2e3bbdf90800000000000000
+      internalID: -6927745815369215857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_77
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1983
+        width: 265
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27b315103ebeb6e0800000000000000
+      internalID: -1819808085689780436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_78
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1983
+        width: 265
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e44389d12cec70800000000000000
+      internalID: 9001606973300729532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_79
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 1983
+        width: 266
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6019be4d8a8438a60800000000000000
+      internalID: 7675058079933370630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_80
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1983
+        width: 266
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1fc6641735cb9c0800000000000000
+      internalID: -3910158630486478375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_81
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1983
+        width: 266
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cdbc7f0bac94ac0800000000000000
+      internalID: -3870339543327843185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1681
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c733cc80ffd185fe0800000000000000
+      internalID: -1200176319492770948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1681
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4ca9ed3b414e520800000000000000
+      internalID: 2730330036859749612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_84
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1681
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99807b52df4ce870800000000000000
+      internalID: 8713427143950895517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_85
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1681
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22db70e990f47c80800000000000000
+      internalID: -8325765267414330835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_86
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1681
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd930506bfdd15570800000000000000
+      internalID: 8453782047273531867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_87
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1681
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151c520408adfbb0800000000000000
+      internalID: -4900576084336306923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_88
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1681
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3a1a91ea5885ca0800000000000000
+      internalID: -6027921118434581599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_89
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1681
+        width: 264
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197f83cc57fcbfe70800000000000000
+      internalID: 9150135172777703313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_90
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1681
+        width: 264
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f339555849fb310800000000000000
+      internalID: 1423019307659640606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_91
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1681
+        width: 264
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5f0a82dd5f67490800000000000000
+      internalID: -7748735778626144808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_92
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1681
+        width: 264
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3a970697985f190800000000000000
+      internalID: -7929280414513257546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_93
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 1681
+        width: 264
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e26b172a2836fab0800000000000000
+      internalID: -4974726984688246044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_94
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 1681
+        width: 264
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a3bc19e1960be30800000000000000
+      internalID: 4517226006268557856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1379
+        width: 271
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868135dd844230ef0800000000000000
+      internalID: -143230867776268184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_96
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1379
+        width: 271
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b52d2c1e5a1e0dc0800000000000000
+      internalID: -3670967654758406736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_97
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1379
+        width: 270
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0865dcdec1ae0b10800000000000000
+      internalID: 1949673598538311694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_98
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1379
+        width: 268
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c90a84c456c3de0800000000000000
+      internalID: -1352094409807586224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_99
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1379
+        width: 267
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f502a7d9b346f900800000000000000
+      internalID: 717835656077903350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_100
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1379
+        width: 267
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14475741b930d2f0800000000000000
+      internalID: -950196087806278626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_101
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1379
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c02cebe42a078040800000000000000
+      internalID: 4649696293976547525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_102
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1379
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbecc470d104c700800000000000000
+      internalID: 559574248525196229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_103
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 1379
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fd61425d6bb21d0800000000000000
+      internalID: -3374402469234286714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_104
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 1379
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb09ca1b07c712540800000000000000
+      internalID: 4981399486307537083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_105
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 1379
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c381698e9c57a50800000000000000
+      internalID: 6518338036476427313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_106
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 1379
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1f5a3c6ce8ad140800000000000000
+      internalID: 4745262141725340070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_107
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 1379
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e35605b7c17fa930800000000000000
+      internalID: 4156666083635778528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1077
+        width: 277
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca478d106f27cf60800000000000000
+      internalID: 8054458548434193100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_109
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1077
+        width: 277
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d5d23a78f981950800000000000000
+      internalID: 6420056673723702631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_110
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1077
+        width: 277
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44098a8d67a469070800000000000000
+      internalID: 8112753653056049220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_111
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1077
+        width: 277
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb7136a13f9bc0c0800000000000000
+      internalID: -4554371562564649986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_112
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1077
+        width: 275
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82c8efcc7bd0c4a0800000000000000
+      internalID: -6575014126850358644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_113
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1077
+        width: 276
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7017b7e6284b5d40800000000000000
+      internalID: 5574128295734612094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_114
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1077
+        width: 274
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ebad4386542e10800000000000000
+      internalID: 2171956042243238227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_115
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1077
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643baf662846aac00800000000000000
+      internalID: 912652385732178758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_116
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1077
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658f4a93e8a198220800000000000000
+      internalID: 2488549467253700694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_117
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 1077
+        width: 274
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2e00e27298f87b0800000000000000
+      internalID: -5219802641730575629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_118
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1077
+        width: 272
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e5fc6557e0b570800000000000000
+      internalID: 8480532452424933683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_119
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1077
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00830ec9a8d1f2200800000000000000
+      internalID: 157376993155889152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_120
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 1077
+        width: 271
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6540057a8e1550800000000000000
+      internalID: 6133491977645551380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 775
+        width: 276
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f500659a0ac1350800000000000000
+      internalID: 5988838253648699255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_122
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 775
+        width: 275
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3eb5d6abad9b970800000000000000
+      internalID: 8771282243514262507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_123
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 775
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae79ba71d3f9150800000000000000
+      internalID: 5881486810241559131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_124
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 775
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527d37556ad1e2c00800000000000000
+      internalID: 877671577619257125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_125
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 775
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c98f5eec56c9b8a0800000000000000
+      internalID: -6288777302207657529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_126
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 775
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1458c2917a0f62f0800000000000000
+      internalID: -977551111205923813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_127
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 775
+        width: 277
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a8044e2cc9c5840800000000000000
+      internalID: 5214214829455215197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_128
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 775
+        width: 277
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fecb512a52e0180800000000000000
+      internalID: -9147332415063265422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_129
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 775
+        width: 277
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8eb2290e10ca1c0800000000000000
+      internalID: -4491212664358573833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_130
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 775
+        width: 277
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea246b2b4d6d12450800000000000000
+      internalID: 6062362782437098158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_131
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 775
+        width: 277
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fe1f216b98b1b60800000000000000
+      internalID: 7717913801524375395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_132
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 775
+        width: 277
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fd1c545a675a890800000000000000
+      internalID: -7447415956575232171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_133
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 775
+        width: 277
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f2e279e718d1140800000000000000
+      internalID: 4692048767492173665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 473
+        width: 267
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90c06fc40c91e4d0800000000000000
+      internalID: -3107030723435904865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_135
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 473
+        width: 267
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cfb66278682bae0800000000000000
+      internalID: -1535016607956599750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_136
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 473
+        width: 268
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8508ab1dc2897150800000000000000
+      internalID: 5870867406698055051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_137
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 473
+        width: 270
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06edc21ed02b2bf00800000000000000
+      internalID: 1131162229105548896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_138
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 473
+        width: 271
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a12928d12c4730800000000000000
+      internalID: 3984596982602769827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_139
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 473
+        width: 271
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bdecddbb50fc160800000000000000
+      internalID: 7047858246296460088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_140
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 473
+        width: 271
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdb1a23390150260800000000000000
+      internalID: 7063069814996188659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_141
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 473
+        width: 272
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e53c4127d001b3f0800000000000000
+      internalID: -886926727638665754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_142
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 473
+        width: 272
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3031681ede3ecf00800000000000000
+      internalID: 1138916879383998522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_143
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 473
+        width: 273
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765e2e06fc7f30aa0800000000000000
+      internalID: -6195836192275896985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_144
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 473
+        width: 274
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1a27e64165af710800000000000000
+      internalID: 1727788052802347488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_145
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 473
+        width: 274
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bdd0e68c330eea0800000000000000
+      internalID: -5845615380394026176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_146
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 473
+        width: 275
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fdc1005371637b0800000000000000
+      internalID: -5244979199623766128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_147
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 264
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983514b313e8c3340800000000000000
+      internalID: 4844903641242489737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 171
+        width: 264
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842a77494c97d3b0800000000000000
+      internalID: -5487745782381927285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_149
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 171
+        width: 265
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3526b6cfeda99cdd0800000000000000
+      internalID: -2465269038500322733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_150
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 171
+        width: 265
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c142b8f835e1da0800000000000000
+      internalID: -5972244179866870726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_151
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 171
+        width: 265
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ac074ed73fbbf0800000000000000
+      internalID: -306464821823626054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_152
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 171
+        width: 265
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0478de63520c56aa0800000000000000
+      internalID: -6168312848546166976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_153
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 171
+        width: 265
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e3253a04580f2c0800000000000000
+      internalID: -4399870323276497407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_154
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 171
+        width: 265
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff121e522a4248b0800000000000000
+      internalID: -5169487910800318472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_155
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 171
+        width: 266
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18756bfb6782572f0800000000000000
+      internalID: -975829253768194175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_156
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 171
+        width: 266
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240f2fd14c1e5c210800000000000000
+      internalID: 1352735495527002178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_157
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 171
+        width: 266
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279567fbeb792fe20800000000000000
+      internalID: 3382933115620448626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_158
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 171
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea05d80211e08730800000000000000
+      internalID: 3999443936678841070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lave_avatar_159
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 171
+        width: 267
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001a9e4cca00fc5a0800000000000000
+      internalID: -6498974995234316032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lave_avatar_0: 8792353099950166077
+      lave_avatar_1: 1086727945058362431
+      lave_avatar_10: -8349355736484721972
+      lave_avatar_100: -950196087806278626
+      lave_avatar_101: 4649696293976547525
+      lave_avatar_102: 559574248525196229
+      lave_avatar_103: -3374402469234286714
+      lave_avatar_104: 4981399486307537083
+      lave_avatar_105: 6518338036476427313
+      lave_avatar_106: 4745262141725340070
+      lave_avatar_107: 4156666083635778528
+      lave_avatar_108: 8054458548434193100
+      lave_avatar_109: 6420056673723702631
+      lave_avatar_11: -5523033164523056317
+      lave_avatar_110: 8112753653056049220
+      lave_avatar_111: -4554371562564649986
+      lave_avatar_112: -6575014126850358644
+      lave_avatar_113: 5574128295734612094
+      lave_avatar_114: 2171956042243238227
+      lave_avatar_115: 912652385732178758
+      lave_avatar_116: 2488549467253700694
+      lave_avatar_117: -5219802641730575629
+      lave_avatar_118: 8480532452424933683
+      lave_avatar_119: 157376993155889152
+      lave_avatar_12: -6473116445722095797
+      lave_avatar_120: 6133491977645551380
+      lave_avatar_121: 5988838253648699255
+      lave_avatar_122: 8771282243514262507
+      lave_avatar_123: 5881486810241559131
+      lave_avatar_124: 877671577619257125
+      lave_avatar_125: -6288777302207657529
+      lave_avatar_126: -977551111205923813
+      lave_avatar_127: 5214214829455215197
+      lave_avatar_128: -9147332415063265422
+      lave_avatar_129: -4491212664358573833
+      lave_avatar_13: 4739641020708973295
+      lave_avatar_130: 6062362782437098158
+      lave_avatar_131: 7717913801524375395
+      lave_avatar_132: -7447415956575232171
+      lave_avatar_133: 4692048767492173665
+      lave_avatar_134: -3107030723435904865
+      lave_avatar_135: -1535016607956599750
+      lave_avatar_136: 5870867406698055051
+      lave_avatar_137: 1131162229105548896
+      lave_avatar_138: 3984596982602769827
+      lave_avatar_139: 7047858246296460088
+      lave_avatar_14: -191353236846159786
+      lave_avatar_140: 7063069814996188659
+      lave_avatar_141: -886926727638665754
+      lave_avatar_142: 1138916879383998522
+      lave_avatar_143: -6195836192275896985
+      lave_avatar_144: 1727788052802347488
+      lave_avatar_145: -5845615380394026176
+      lave_avatar_146: -5244979199623766128
+      lave_avatar_147: 4844903641242489737
+      lave_avatar_148: -5487745782381927285
+      lave_avatar_149: -2465269038500322733
+      lave_avatar_15: 2143521088271450065
+      lave_avatar_150: -5972244179866870726
+      lave_avatar_151: -306464821823626054
+      lave_avatar_152: -6168312848546166976
+      lave_avatar_153: -4399870323276497407
+      lave_avatar_154: -5169487910800318472
+      lave_avatar_155: -975829253768194175
+      lave_avatar_156: 1352735495527002178
+      lave_avatar_157: 3382933115620448626
+      lave_avatar_158: 3999443936678841070
+      lave_avatar_159: -6498974995234316032
+      lave_avatar_16: 5733687339168800720
+      lave_avatar_17: 6352505874861715607
+      lave_avatar_18: 5337461759036702343
+      lave_avatar_19: 3756323009730741174
+      lave_avatar_2: 4147563722286150198
+      lave_avatar_20: -2413707806071638454
+      lave_avatar_21: -1412630165728272297
+      lave_avatar_22: -66230170829024865
+      lave_avatar_23: -8383098306022465670
+      lave_avatar_24: -5217265525009062295
+      lave_avatar_25: -7234899693663060218
+      lave_avatar_26: 1222677271310355472
+      lave_avatar_27: 4530991169690398632
+      lave_avatar_28: 8852436776433079094
+      lave_avatar_29: 6748675814070888646
+      lave_avatar_3: 6754570445695144391
+      lave_avatar_30: 4812319111114467969
+      lave_avatar_31: -2961761467589395846
+      lave_avatar_32: -2731027145503622880
+      lave_avatar_33: -1534677158618772097
+      lave_avatar_34: -8039997985996899043
+      lave_avatar_35: 3699108216314192475
+      lave_avatar_36: -5055659206188706180
+      lave_avatar_37: -9035776314819925879
+      lave_avatar_38: -5101587871642840184
+      lave_avatar_39: -2120458570798085894
+      lave_avatar_4: -6172681968507969200
+      lave_avatar_40: 6843166695542157877
+      lave_avatar_41: 1045051272595691572
+      lave_avatar_42: -9100420524372517675
+      lave_avatar_43: 40589878616204094
+      lave_avatar_44: -707823992099700890
+      lave_avatar_45: -2845613366741036147
+      lave_avatar_46: 7677844442217433890
+      lave_avatar_47: 5996923163710971366
+      lave_avatar_48: 864829989098050825
+      lave_avatar_49: 3581458348845646500
+      lave_avatar_5: 2790068893543083266
+      lave_avatar_50: -3272966867855150133
+      lave_avatar_51: 6139915400519232140
+      lave_avatar_52: -8605585163471927688
+      lave_avatar_53: -3579107676704268388
+      lave_avatar_54: 4385188657476140764
+      lave_avatar_55: 4364906847356307043
+      lave_avatar_56: -2821683297657683310
+      lave_avatar_57: 3751416230583773259
+      lave_avatar_58: 8016641645701473757
+      lave_avatar_59: 3639534948442981330
+      lave_avatar_6: -4704207672849065021
+      lave_avatar_60: 4234275267666650855
+      lave_avatar_61: -8646548034611129999
+      lave_avatar_62: 37327935698387245
+      lave_avatar_63: -5377119690697298769
+      lave_avatar_64: 1023941664347320801
+      lave_avatar_65: -7440643586789909589
+      lave_avatar_66: -3651634044621839568
+      lave_avatar_67: -2249681030396117904
+      lave_avatar_68: -8207859718518614377
+      lave_avatar_69: -8989390801597482252
+      lave_avatar_7: 6595139341438540394
+      lave_avatar_70: -7166846003578661537
+      lave_avatar_71: 4763764026702403807
+      lave_avatar_72: -6275667269117759199
+      lave_avatar_73: -6824571220581867343
+      lave_avatar_74: -5265522210508142536
+      lave_avatar_75: -4691778606683229186
+      lave_avatar_76: -6927745815369215857
+      lave_avatar_77: -1819808085689780436
+      lave_avatar_78: 9001606973300729532
+      lave_avatar_79: 7675058079933370630
+      lave_avatar_8: -5316570420140263765
+      lave_avatar_80: -3910158630486478375
+      lave_avatar_81: -3870339543327843185
+      lave_avatar_82: -1200176319492770948
+      lave_avatar_83: 2730330036859749612
+      lave_avatar_84: 8713427143950895517
+      lave_avatar_85: -8325765267414330835
+      lave_avatar_86: 8453782047273531867
+      lave_avatar_87: -4900576084336306923
+      lave_avatar_88: -6027921118434581599
+      lave_avatar_89: 9150135172777703313
+      lave_avatar_9: 3562536475566287640
+      lave_avatar_90: 1423019307659640606
+      lave_avatar_91: -7748735778626144808
+      lave_avatar_92: -7929280414513257546
+      lave_avatar_93: -4974726984688246044
+      lave_avatar_94: 4517226006268557856
+      lave_avatar_95: -143230867776268184
+      lave_avatar_96: -3670967654758406736
+      lave_avatar_97: 1949673598538311694
+      lave_avatar_98: -1352094409807586224
+      lave_avatar_99: 717835656077903350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,50 @@
+koosh.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Layer 10
+bounds:2,2,1136,1657
+offsets:0,0,1166,1657
+Layer 11
+bounds:2,1215,186,114
+offsets:0,2,186,116
+Layer 12
+bounds:184,1227,135,102
+Layer 2
+bounds:1622,1374,311,285
+Layer 3
+bounds:1005,1191,253,250
+Layer 4
+bounds:1715,1142,243,230
+offsets:0,0,244,230
+Layer 5
+bounds:751,894,324,695
+offsets:0,2,324,698
+Layer 6
+bounds:1459,875,361,622
+offsets:14,0,375,622
+Layer 7
+bounds:663,1231,206,245
+Layer 8
+bounds:2,1331,372,328
+Layer 9
+bounds:1006,838,614,821
+offsets:33,0,647,821
+c1
+bounds:430,1606,57,53
+c2
+bounds:1005,1562,25,53
+c3
+bounds:1935,1568,41,41
+c4
+bounds:489,1612,40,47
+c5
+bounds:1984,1560,35,50
+c6
+bounds:1984,1612,45,47
+c7
+bounds:1935,1611,47,48
+c8
+bounds:1159,1544,40,39
+c9
+bounds:376,1581,52,78

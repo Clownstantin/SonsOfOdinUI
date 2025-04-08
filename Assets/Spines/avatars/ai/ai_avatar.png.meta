@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: c49885b5b2f235b4fad5b2f1439ab2ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 690596416229538155
+    second: ai_avatar_0
+  - first:
+      213: -2527314473730367700
+    second: ai_avatar_1
+  - first:
+      213: 7879361565366814048
+    second: ai_avatar_2
+  - first:
+      213: -2967118710128799777
+    second: ai_avatar_3
+  - first:
+      213: 7216046766308677433
+    second: ai_avatar_4
+  - first:
+      213: 8142803752373007949
+    second: ai_avatar_5
+  - first:
+      213: -6965581923629604766
+    second: ai_avatar_6
+  - first:
+      213: -6177430808240839525
+    second: ai_avatar_7
+  - first:
+      213: -2927694860588048288
+    second: ai_avatar_8
+  - first:
+      213: -4834917601388580389
+    second: ai_avatar_9
+  - first:
+      213: 2793806802798956495
+    second: ai_avatar_10
+  - first:
+      213: -2134698787433134087
+    second: ai_avatar_11
+  - first:
+      213: 8631609814178053419
+    second: ai_avatar_12
+  - first:
+      213: 9099763053055027150
+    second: ai_avatar_13
+  - first:
+      213: -7630067230900548835
+    second: ai_avatar_14
+  - first:
+      213: -1164209872279950928
+    second: ai_avatar_15
+  - first:
+      213: 7277278822817463886
+    second: ai_avatar_16
+  - first:
+      213: -8067030567573925177
+    second: ai_avatar_17
+  - first:
+      213: 8855672664449584342
+    second: ai_avatar_18
+  - first:
+      213: 4970948124898888408
+    second: ai_avatar_19
+  - first:
+      213: -5030039875395759475
+    second: ai_avatar_20
+  - first:
+      213: -5793527736368455568
+    second: ai_avatar_21
+  - first:
+      213: 1531995440037943672
+    second: ai_avatar_22
+  - first:
+      213: -405066264629735284
+    second: ai_avatar_23
+  - first:
+      213: -4552116213338200616
+    second: ai_avatar_24
+  - first:
+      213: -8857961905563941439
+    second: ai_avatar_25
+  - first:
+      213: -1565999053084205517
+    second: ai_avatar_26
+  - first:
+      213: 6914648173844874892
+    second: ai_avatar_27
+  - first:
+      213: -8255974513610376362
+    second: ai_avatar_28
+  - first:
+      213: 2280642018900249819
+    second: ai_avatar_29
+  - first:
+      213: -3099899644846473901
+    second: ai_avatar_30
+  - first:
+      213: -6838628800472321690
+    second: ai_avatar_31
+  - first:
+      213: -6481135284470675209
+    second: ai_avatar_32
+  - first:
+      213: 1509092274735148824
+    second: ai_avatar_33
+  - first:
+      213: 4801654930654756326
+    second: ai_avatar_34
+  - first:
+      213: 7680988297155529738
+    second: ai_avatar_35
+  - first:
+      213: -2010073785330306027
+    second: ai_avatar_36
+  - first:
+      213: -108610149866888281
+    second: ai_avatar_37
+  - first:
+      213: -7474057290384987881
+    second: ai_avatar_38
+  - first:
+      213: -5575468386875828101
+    second: ai_avatar_39
+  - first:
+      213: 6004918280607355996
+    second: ai_avatar_40
+  - first:
+      213: 3892052931610690639
+    second: ai_avatar_41
+  - first:
+      213: -342736963554681403
+    second: ai_avatar_42
+  - first:
+      213: 3433409586142730268
+    second: ai_avatar_43
+  - first:
+      213: 2779737216928218992
+    second: ai_avatar_44
+  - first:
+      213: 59198174908171565
+    second: ai_avatar_45
+  - first:
+      213: 3096818865522562848
+    second: ai_avatar_46
+  - first:
+      213: 4999489621185158669
+    second: ai_avatar_47
+  - first:
+      213: 6810734170877965204
+    second: ai_avatar_48
+  - first:
+      213: 2726636108958842016
+    second: ai_avatar_49
+  - first:
+      213: 2149398009310377520
+    second: ai_avatar_50
+  - first:
+      213: -8314609942824615584
+    second: ai_avatar_51
+  - first:
+      213: 6225275021217090650
+    second: ai_avatar_52
+  - first:
+      213: 8389740145696943766
+    second: ai_avatar_53
+  - first:
+      213: -4837680732481161294
+    second: ai_avatar_54
+  - first:
+      213: 5852289477210875477
+    second: ai_avatar_55
+  - first:
+      213: -2795060754364792087
+    second: ai_avatar_56
+  - first:
+      213: -637428037434492993
+    second: ai_avatar_57
+  - first:
+      213: 3419942872025170682
+    second: ai_avatar_58
+  - first:
+      213: 6222565012994064700
+    second: ai_avatar_59
+  - first:
+      213: 4090729890938490716
+    second: ai_avatar_60
+  - first:
+      213: 6931298063684977848
+    second: ai_avatar_61
+  - first:
+      213: 92736141367476234
+    second: ai_avatar_62
+  - first:
+      213: -2343054141241546686
+    second: ai_avatar_63
+  - first:
+      213: -8702667143174243108
+    second: ai_avatar_64
+  - first:
+      213: 1382831631760627415
+    second: ai_avatar_65
+  - first:
+      213: -5347895802481764567
+    second: ai_avatar_66
+  - first:
+      213: -5858734685993017507
+    second: ai_avatar_67
+  - first:
+      213: 1196862659281281654
+    second: ai_avatar_68
+  - first:
+      213: -3952794187863246323
+    second: ai_avatar_69
+  - first:
+      213: -7024873028598863065
+    second: ai_avatar_70
+  - first:
+      213: 5553419046491768618
+    second: ai_avatar_71
+  - first:
+      213: 3515365927498194249
+    second: ai_avatar_72
+  - first:
+      213: -3845313593599783634
+    second: ai_avatar_73
+  - first:
+      213: 8307303551806732326
+    second: ai_avatar_74
+  - first:
+      213: 5178361146785725039
+    second: ai_avatar_75
+  - first:
+      213: -8126903955814489934
+    second: ai_avatar_76
+  - first:
+      213: -8225573025346758148
+    second: ai_avatar_77
+  - first:
+      213: -7186066686703932571
+    second: ai_avatar_78
+  - first:
+      213: -8673179867911183108
+    second: ai_avatar_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ai_avatar_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1845
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69f48818cd759900800000000000000
+      internalID: 690596416229538155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1845
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f199d50ec2decd0800000000000000
+      internalID: -2527314473730367700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1845
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0650e88d89d195d60800000000000000
+      internalID: 7879361565366814048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1845
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf8b5ce04da2d6d0800000000000000
+      internalID: -2967118710128799777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_4
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1845
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9375f6c3d4c842460800000000000000
+      internalID: 7216046766308677433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_5
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1845
+        width: 174
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4639efcedc010170800000000000000
+      internalID: 8142803752373007949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_6
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1845
+        width: 174
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260ec2c4528455f90800000000000000
+      internalID: -6965581923629604766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_7
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1845
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94204ac86b554aa0800000000000000
+      internalID: -6177430808240839525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_8
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1845
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a9ef290dbe57d0800000000000000
+      internalID: -2927694860588048288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_9
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1845
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd133fade0ce6ecb0800000000000000
+      internalID: -4834917601388580389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1643
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc6e32c7895c620800000000000000
+      internalID: 2793806802798956495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1643
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7479053c60062e0800000000000000
+      internalID: -2134698787433134087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1643
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dbbddc463a9c770800000000000000
+      internalID: 8631609814178053419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1643
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a19db84ad84e70800000000000000
+      internalID: 9099763053055027150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_14
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1643
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b03d1874e8c1690800000000000000
+      internalID: -7630067230900548835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_15
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1643
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b920c61a45e7dfe0800000000000000
+      internalID: -1164209872279950928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_16
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1643
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ef18d58861ef460800000000000000
+      internalID: 7277278822817463886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1643
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2d98390762c0090800000000000000
+      internalID: -8067030567573925177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_18
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1643
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc87a37e5ba5ea70800000000000000
+      internalID: 8855672664449584342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_19
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1643
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da0e7d7bfa5cf440800000000000000
+      internalID: 4970948124898888408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d825cf43265b13ab0800000000000000
+      internalID: -5030039875395759475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a26d1831499fa0800000000000000
+      internalID: -5793527736368455568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879daf06cbdb24510800000000000000
+      internalID: 1531995440037943672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c801042e06ae06af0800000000000000
+      internalID: -405066264629735284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d52eaf0c62a3d0c0800000000000000
+      internalID: -4552116213338200616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_25
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c54be01492321580800000000000000
+      internalID: -8857961905563941439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_26
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e51528824744ae0800000000000000
+      internalID: -1565999053084205517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_27
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86c3d4f0e3c5ff50800000000000000
+      internalID: 6914648173844874892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_28
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1441
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b33910ce2ec6d80800000000000000
+      internalID: -8255974513610376362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_29
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1441
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc016435d776af10800000000000000
+      internalID: 2280642018900249819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1239
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35df09d62b1faf4d0800000000000000
+      internalID: -3099899644846473901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1239
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661771da65f4811a0800000000000000
+      internalID: -6838628800472321690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_32
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1239
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f800eb1cc16e06a0800000000000000
+      internalID: -6481135284470675209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1239
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fefd8ad6f51f410800000000000000
+      internalID: 1509092274735148824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1239
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edfdab18b7e2a240800000000000000
+      internalID: 4801654930654756326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_35
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1239
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c43ef192a589a60800000000000000
+      internalID: 7680988297155529738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_36
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1239
+        width: 179
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ff05ca88ca14e0800000000000000
+      internalID: -2010073785330306027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_37
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1239
+        width: 179
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3ae26e4a32e7ef0800000000000000
+      internalID: -108610149866888281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_38
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1239
+        width: 179
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7192faf5e70d64890800000000000000
+      internalID: -7474057290384987881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_39
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1239
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7898dfca05ff92b0800000000000000
+      internalID: -5575468386875828101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1037
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d9dc5c51c55350800000000000000
+      internalID: 6004918280607355996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1037
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444ca33589530630800000000000000
+      internalID: 3892052931610690639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1037
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5deb2c8a5e3bf0800000000000000
+      internalID: -342736963554681403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_43
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1037
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18557ed3dbe5af20800000000000000
+      internalID: 3433409586142730268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_44
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1037
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f70f7654c939620800000000000000
+      internalID: 2779737216928218992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_45
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1037
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25c0ca2d6052d000800000000000000
+      internalID: 59198174908171565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_46
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1037
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027533db95c1afa20800000000000000
+      internalID: 3096818865522562848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_47
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1037
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e5ef07251c16540800000000000000
+      internalID: 4999489621185158669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_48
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1037
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493bbc2c4a6948e50800000000000000
+      internalID: 6810734170877965204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_49
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1037
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acbe324815f6d520800000000000000
+      internalID: 2726636108958842016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 835
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03670e9f91234dd10800000000000000
+      internalID: 2149398009310377520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 835
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06102084f429c9c80800000000000000
+      internalID: -8314609942824615584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 835
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cc1cc16ae946650800000000000000
+      internalID: 6225275021217090650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_53
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 835
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ea91636385e6470800000000000000
+      internalID: 8389740145696943766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_54
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 835
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b775b3410b1ddcb0800000000000000
+      internalID: -4837680732481161294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_55
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 835
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55629e3d542873150800000000000000
+      internalID: 5852289477210875477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_56
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 835
+        width: 175
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e283728d03f539d0800000000000000
+      internalID: -2795060754364792087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_57
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 835
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7b7d2c3966727f0800000000000000
+      internalID: -637428037434492993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_58
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 835
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af280372ce3167f20800000000000000
+      internalID: 3419942872025170682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_59
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 835
+        width: 176
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31094729edfa5650800000000000000
+      internalID: 6222565012994064700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 633
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f0675892135c830800000000000000
+      internalID: 4090729890938490716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 633
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4cb468ddae03060800000000000000
+      internalID: 6931298063684977848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_62
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 633
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008c0c7707794100800000000000000
+      internalID: 92736141367476234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_63
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 633
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2482acd2caccb7fd0800000000000000
+      internalID: -2343054141241546686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_64
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 633
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb2ac875ae93780800000000000000
+      internalID: -8702667143174243108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_65
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 633
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d61443ea0ec03310800000000000000
+      internalID: 1382831631760627415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_66
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 633
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927954d1a1578c5b0800000000000000
+      internalID: -5347895802481764567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_67
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 633
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f502018d791bea0800000000000000
+      internalID: -5858734685993017507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_68
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 633
+        width: 174
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e3635f3c1c9010800000000000000
+      internalID: 1196862659281281654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_69
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 633
+        width: 174
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0abe2201aad429c0800000000000000
+      internalID: -3952794187863246323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b642a2333a28e90800000000000000
+      internalID: -7024873028598863065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27c7031335b11d40800000000000000
+      internalID: 5553419046491768618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_72
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d9a049fa619c030800000000000000
+      internalID: 3515365927498194249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_73
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d0183f8a3b2aac0800000000000000
+      internalID: -3845313593599783634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_74
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628f7cef098794370800000000000000
+      internalID: 8307303551806732326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_75
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6af8d0e60c3dd740800000000000000
+      internalID: 5178361146785725039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_76
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e5fd09ef673f80800000000000000
+      internalID: -8126903955814489934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_77
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9db261ae4e8dd80800000000000000
+      internalID: -8225573025346758148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_78
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b6ebefb66f54c90800000000000000
+      internalID: -7186066686703932571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_avatar_79
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 431
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a514dcdca2a780800000000000000
+      internalID: -8673179867911183108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ai_avatar_0: 690596416229538155
+      ai_avatar_1: -2527314473730367700
+      ai_avatar_10: 2793806802798956495
+      ai_avatar_11: -2134698787433134087
+      ai_avatar_12: 8631609814178053419
+      ai_avatar_13: 9099763053055027150
+      ai_avatar_14: -7630067230900548835
+      ai_avatar_15: -1164209872279950928
+      ai_avatar_16: 7277278822817463886
+      ai_avatar_17: -8067030567573925177
+      ai_avatar_18: 8855672664449584342
+      ai_avatar_19: 4970948124898888408
+      ai_avatar_2: 7879361565366814048
+      ai_avatar_20: -5030039875395759475
+      ai_avatar_21: -5793527736368455568
+      ai_avatar_22: 1531995440037943672
+      ai_avatar_23: -405066264629735284
+      ai_avatar_24: -4552116213338200616
+      ai_avatar_25: -8857961905563941439
+      ai_avatar_26: -1565999053084205517
+      ai_avatar_27: 6914648173844874892
+      ai_avatar_28: -8255974513610376362
+      ai_avatar_29: 2280642018900249819
+      ai_avatar_3: -2967118710128799777
+      ai_avatar_30: -3099899644846473901
+      ai_avatar_31: -6838628800472321690
+      ai_avatar_32: -6481135284470675209
+      ai_avatar_33: 1509092274735148824
+      ai_avatar_34: 4801654930654756326
+      ai_avatar_35: 7680988297155529738
+      ai_avatar_36: -2010073785330306027
+      ai_avatar_37: -108610149866888281
+      ai_avatar_38: -7474057290384987881
+      ai_avatar_39: -5575468386875828101
+      ai_avatar_4: 7216046766308677433
+      ai_avatar_40: 6004918280607355996
+      ai_avatar_41: 3892052931610690639
+      ai_avatar_42: -342736963554681403
+      ai_avatar_43: 3433409586142730268
+      ai_avatar_44: 2779737216928218992
+      ai_avatar_45: 59198174908171565
+      ai_avatar_46: 3096818865522562848
+      ai_avatar_47: 4999489621185158669
+      ai_avatar_48: 6810734170877965204
+      ai_avatar_49: 2726636108958842016
+      ai_avatar_5: 8142803752373007949
+      ai_avatar_50: 2149398009310377520
+      ai_avatar_51: -8314609942824615584
+      ai_avatar_52: 6225275021217090650
+      ai_avatar_53: 8389740145696943766
+      ai_avatar_54: -4837680732481161294
+      ai_avatar_55: 5852289477210875477
+      ai_avatar_56: -2795060754364792087
+      ai_avatar_57: -637428037434492993
+      ai_avatar_58: 3419942872025170682
+      ai_avatar_59: 6222565012994064700
+      ai_avatar_6: -6965581923629604766
+      ai_avatar_60: 4090729890938490716
+      ai_avatar_61: 6931298063684977848
+      ai_avatar_62: 92736141367476234
+      ai_avatar_63: -2343054141241546686
+      ai_avatar_64: -8702667143174243108
+      ai_avatar_65: 1382831631760627415
+      ai_avatar_66: -5347895802481764567
+      ai_avatar_67: -5858734685993017507
+      ai_avatar_68: 1196862659281281654
+      ai_avatar_69: -3952794187863246323
+      ai_avatar_7: -6177430808240839525
+      ai_avatar_70: -7024873028598863065
+      ai_avatar_71: 5553419046491768618
+      ai_avatar_72: 3515365927498194249
+      ai_avatar_73: -3845313593599783634
+      ai_avatar_74: 8307303551806732326
+      ai_avatar_75: 5178361146785725039
+      ai_avatar_76: -8126903955814489934
+      ai_avatar_77: -8225573025346758148
+      ai_avatar_78: -7186066686703932571
+      ai_avatar_79: -8673179867911183108
+      ai_avatar_8: -2927694860588048288
+      ai_avatar_9: -4834917601388580389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

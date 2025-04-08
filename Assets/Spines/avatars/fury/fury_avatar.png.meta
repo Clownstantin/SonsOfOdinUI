@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: da1b5340ad1c5244a820e90a4251cd90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8888843295994933952
+    second: fury_avatar_0
+  - first:
+      213: 620851108524421329
+    second: fury_avatar_1
+  - first:
+      213: -7325141609384164947
+    second: fury_avatar_2
+  - first:
+      213: -4300952210156842856
+    second: fury_avatar_3
+  - first:
+      213: 8405176017723588003
+    second: fury_avatar_4
+  - first:
+      213: -5847663483200340542
+    second: fury_avatar_5
+  - first:
+      213: -9216921238263494574
+    second: fury_avatar_6
+  - first:
+      213: -2029055721470786112
+    second: fury_avatar_7
+  - first:
+      213: -1151109864108488349
+    second: fury_avatar_8
+  - first:
+      213: -2376306974844022915
+    second: fury_avatar_9
+  - first:
+      213: -5058079087553684032
+    second: fury_avatar_10
+  - first:
+      213: -5598651405602100625
+    second: fury_avatar_11
+  - first:
+      213: 2800531601092900775
+    second: fury_avatar_12
+  - first:
+      213: 1292769852401692901
+    second: fury_avatar_13
+  - first:
+      213: 902913602110736679
+    second: fury_avatar_14
+  - first:
+      213: -2459556828020352103
+    second: fury_avatar_15
+  - first:
+      213: 5464278444551497082
+    second: fury_avatar_16
+  - first:
+      213: 1551350771579753170
+    second: fury_avatar_17
+  - first:
+      213: 4076206403612006562
+    second: fury_avatar_18
+  - first:
+      213: 5652945806724310395
+    second: fury_avatar_19
+  - first:
+      213: 4669564100026110446
+    second: fury_avatar_20
+  - first:
+      213: 1453606053603702274
+    second: fury_avatar_21
+  - first:
+      213: 2833787960791875552
+    second: fury_avatar_22
+  - first:
+      213: -6636878105507636644
+    second: fury_avatar_23
+  - first:
+      213: -4150980568858468608
+    second: fury_avatar_24
+  - first:
+      213: -745993768249610190
+    second: fury_avatar_25
+  - first:
+      213: -7193095175051239709
+    second: fury_avatar_26
+  - first:
+      213: 5952446798666818009
+    second: fury_avatar_27
+  - first:
+      213: 4842896829022974265
+    second: fury_avatar_28
+  - first:
+      213: -5045642323077160276
+    second: fury_avatar_29
+  - first:
+      213: 7206633504983618058
+    second: fury_avatar_30
+  - first:
+      213: 209902640514597897
+    second: fury_avatar_31
+  - first:
+      213: 1401185638008669072
+    second: fury_avatar_32
+  - first:
+      213: -1278246370643494770
+    second: fury_avatar_33
+  - first:
+      213: -8776195950769377432
+    second: fury_avatar_34
+  - first:
+      213: -4617218595704788116
+    second: fury_avatar_35
+  - first:
+      213: 850779297771044327
+    second: fury_avatar_36
+  - first:
+      213: -5385578872963749621
+    second: fury_avatar_37
+  - first:
+      213: -2249846078972912046
+    second: fury_avatar_38
+  - first:
+      213: -7382551311738303717
+    second: fury_avatar_39
+  - first:
+      213: 8860243457348511319
+    second: fury_avatar_40
+  - first:
+      213: 1851127852433441
+    second: fury_avatar_41
+  - first:
+      213: 8199116951003704365
+    second: fury_avatar_42
+  - first:
+      213: 7933521252376415351
+    second: fury_avatar_43
+  - first:
+      213: 468303973450177877
+    second: fury_avatar_44
+  - first:
+      213: 6405875655604450769
+    second: fury_avatar_45
+  - first:
+      213: 1971055021163280712
+    second: fury_avatar_46
+  - first:
+      213: 5741901423420425497
+    second: fury_avatar_47
+  - first:
+      213: -3375128340428902582
+    second: fury_avatar_48
+  - first:
+      213: -2001112419810737827
+    second: fury_avatar_49
+  - first:
+      213: 5035290609041823877
+    second: fury_avatar_50
+  - first:
+      213: -3329806185349148272
+    second: fury_avatar_51
+  - first:
+      213: 7203205291579337769
+    second: fury_avatar_52
+  - first:
+      213: 4598642456795104269
+    second: fury_avatar_53
+  - first:
+      213: 1381407725656012994
+    second: fury_avatar_54
+  - first:
+      213: -5692479661553088674
+    second: fury_avatar_55
+  - first:
+      213: 5688790686786364989
+    second: fury_avatar_56
+  - first:
+      213: -4154844193337945598
+    second: fury_avatar_57
+  - first:
+      213: 650338550232639223
+    second: fury_avatar_58
+  - first:
+      213: 5931232285821646466
+    second: fury_avatar_59
+  - first:
+      213: -6677268868283747146
+    second: fury_avatar_60
+  - first:
+      213: -8539018308052744072
+    second: fury_avatar_61
+  - first:
+      213: 589312725832426803
+    second: fury_avatar_62
+  - first:
+      213: 215649316606129708
+    second: fury_avatar_63
+  - first:
+      213: -5291064041426716160
+    second: fury_avatar_64
+  - first:
+      213: -7707809715793272569
+    second: fury_avatar_65
+  - first:
+      213: -5798878974293225951
+    second: fury_avatar_66
+  - first:
+      213: -1953426225680243608
+    second: fury_avatar_67
+  - first:
+      213: 1099670383128354891
+    second: fury_avatar_68
+  - first:
+      213: 6706007988139889354
+    second: fury_avatar_69
+  - first:
+      213: -6674679114406974932
+    second: fury_avatar_70
+  - first:
+      213: 8475361785379556366
+    second: fury_avatar_71
+  - first:
+      213: 5603613570119576114
+    second: fury_avatar_72
+  - first:
+      213: 1504159150355380334
+    second: fury_avatar_73
+  - first:
+      213: -7911700706368205762
+    second: fury_avatar_74
+  - first:
+      213: -8507613583432368102
+    second: fury_avatar_75
+  - first:
+      213: -2702172033183142539
+    second: fury_avatar_76
+  - first:
+      213: 5229895148330435007
+    second: fury_avatar_77
+  - first:
+      213: 8244055563070184942
+    second: fury_avatar_78
+  - first:
+      213: 1449807709768781245
+    second: fury_avatar_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fury_avatar_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1845
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2f3e1f1e38b5b70800000000000000
+      internalID: 8888843295994933952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1845
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d071063bc4bd9800800000000000000
+      internalID: 620851108524421329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1845
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1493b348ed75a90800000000000000
+      internalID: -7325141609384164947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1845
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8909ba590c2ff44c0800000000000000
+      internalID: -4300952210156842856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_4
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1845
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adfb0b3e0f25a470800000000000000
+      internalID: 8405176017723588003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_5
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1845
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdf1d55b0de8dea0800000000000000
+      internalID: -5847663483200340542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_6
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1845
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580d8697fae61080800000000000000
+      internalID: -9216921238263494574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_7
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1845
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5824c529857d3e0800000000000000
+      internalID: -2029055721470786112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_8
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1845
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3698d5c6daf6600f0800000000000000
+      internalID: -1151109864108488349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_9
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1845
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f83278569a50fd0800000000000000
+      internalID: -2376306974844022915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1643
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdd7846ed71ec9b0800000000000000
+      internalID: -5058079087553684032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a68d3a5389d42b0800000000000000
+      internalID: -5598651405602100625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7f56147ac7dd620800000000000000
+      internalID: 2800531601092900775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0bcb4d457d0f110800000000000000
+      internalID: 1292769852401692901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_14
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729cda4232bc78c00800000000000000
+      internalID: 902913602110736679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_15
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bd5f0a816edddd0800000000000000
+      internalID: -2459556828020352103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_16
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75e0595b4405db40800000000000000
+      internalID: 5464278444551497082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21a0eae41878510800000000000000
+      internalID: 1551350771579753170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_18
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8577e9028919830800000000000000
+      internalID: 4076206403612006562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_19
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1643
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b752658b24c437e40800000000000000
+      internalID: 5652945806724310395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1441
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee119fdfecf9dc040800000000000000
+      internalID: 4669564100026110446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1441
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206f764110f3c2410800000000000000
+      internalID: 1453606053603702274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1441
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef37c3e223a35720800000000000000
+      internalID: 2833787960791875552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1441
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a56a7d68215e3a0800000000000000
+      internalID: -6636878105507636644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_24
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1441
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f54ab5a21c466c0800000000000000
+      internalID: -4150980568858468608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_25
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1441
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230b3d6ce92b5a5f0800000000000000
+      internalID: -745993768249610190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_26
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1441
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee9e778c0efc2c90800000000000000
+      internalID: -7193095175051239709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_27
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1441
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d162f273d65b9250800000000000000
+      internalID: 5952446798666818009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_28
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1441
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b7c9d10d653340800000000000000
+      internalID: 4842896829022974265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_29
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1441
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca22f454a074af9b0800000000000000
+      internalID: -5045642323077160276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1239
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a021afa8dfa130460800000000000000
+      internalID: 7206633504983618058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1037
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9040a45e659b9e200800000000000000
+      internalID: 209902640514597897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1239
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c2e9f9e2027310800000000000000
+      internalID: 1401185638008669072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1037
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88bc56c2b1c24ee0800000000000000
+      internalID: -1278246370643494770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1239
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f6b23f740b43680800000000000000
+      internalID: -8776195950769377432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_35
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1239
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b20b876285cefb0800000000000000
+      internalID: -4617218595704788116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_36
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1239
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed36e183439ecb00800000000000000
+      internalID: 850779297771044327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_37
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1239
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09a52f8c849245b0800000000000000
+      internalID: -5385578872963749621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_38
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1239
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e938f49e0f6c0e0800000000000000
+      internalID: -2249846078972912046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_39
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1239
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b8eb742b8eb8990800000000000000
+      internalID: -7382551311738303717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_40
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1239
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756acba1b78e5fa70800000000000000
+      internalID: 8860243457348511319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_41
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1239
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120041a4793960000800000000000000
+      internalID: 1851127852433441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ca5781d6d19c170800000000000000
+      internalID: 8199116951003704365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c88e1ab87891e60800000000000000
+      internalID: 7933521252376415351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1037
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd6609bffbf7600800000000000000
+      internalID: 468303973450177877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d530af08fd36e850800000000000000
+      internalID: 6405875655604450769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1037
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849ff2149189a5b10800000000000000
+      internalID: 1971055021163280712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_47
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915c8463ce45faf40800000000000000
+      internalID: 5741901423420425497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_48
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1037
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fa16518a22921d0800000000000000
+      internalID: -3375128340428902582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_49
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d510f854bde9a34e0800000000000000
+      internalID: -2001112419810737827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_50
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1037
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5885ccc7122f0e540800000000000000
+      internalID: 5035290609041823877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_51
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919d5f9ae62ac1d0800000000000000
+      internalID: -3329806185349148272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_52
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1037
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cecc86c0de6f360800000000000000
+      internalID: 7203205291579337769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_53
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d044d4623f8a1df30800000000000000
+      internalID: 4598642456795104269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_54
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1037
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8f4b9e10fbb2310800000000000000
+      internalID: 1381407725656012994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_55
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e570ef968ef3001b0800000000000000
+      internalID: -5692479661553088674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_56
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1037
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36a3773df4a2fe40800000000000000
+      internalID: 5688790686786364989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_57
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2025ffe28370756c0800000000000000
+      internalID: -4154844193337945598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_58
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1037
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6eb5e3777760900800000000000000
+      internalID: 650338550232639223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_59
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 835
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2863ab4c658ff4250800000000000000
+      internalID: 5931232285821646466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b43c2c87539553a0800000000000000
+      internalID: -6677268868283747146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_61
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87885f927105f7980800000000000000
+      internalID: -8539018308052744072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_62
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ebd44dc8ad2800800000000000000
+      internalID: 589312725832426803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_63
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c263d5039e32ef200800000000000000
+      internalID: 215649316606129708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_64
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00afaee994d5296b0800000000000000
+      internalID: -5291064041426716160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_65
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70166d5b6eb580590800000000000000
+      internalID: -7707809715793272569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_66
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e45c1fb4e368fa0800000000000000
+      internalID: -5798878974293225951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_67
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864a56b823904e4e0800000000000000
+      internalID: -1953426225680243608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_68
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40226c1360d24f00800000000000000
+      internalID: 1099670383128354891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_69
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 633
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2920a3cb6801d50800000000000000
+      internalID: 6706007988139889354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aad0c95b6ce53a0800000000000000
+      internalID: -6674679114406974932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_71
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c0870b3a88e9570800000000000000
+      internalID: 8475361785379556366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_72
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a29815ad804cd40800000000000000
+      internalID: 5603613570119576114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_73
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f59227c8dfd410800000000000000
+      internalID: 1504159150355380334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_74
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c47b3202ef33290800000000000000
+      internalID: -7911700706368205762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_75
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10c9396582eee980800000000000000
+      internalID: -8507613583432368102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_76
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57daf104ad4ff7ad0800000000000000
+      internalID: -2702172033183142539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_77
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb146c0ade1549840800000000000000
+      internalID: 5229895148330435007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_78
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed91611bd4c86270800000000000000
+      internalID: 8244055563070184942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fury_avatar_79
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 431
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd046d3e60ce1410800000000000000
+      internalID: 1449807709768781245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fury_avatar_0: 8888843295994933952
+      fury_avatar_1: 620851108524421329
+      fury_avatar_10: -5058079087553684032
+      fury_avatar_11: -5598651405602100625
+      fury_avatar_12: 2800531601092900775
+      fury_avatar_13: 1292769852401692901
+      fury_avatar_14: 902913602110736679
+      fury_avatar_15: -2459556828020352103
+      fury_avatar_16: 5464278444551497082
+      fury_avatar_17: 1551350771579753170
+      fury_avatar_18: 4076206403612006562
+      fury_avatar_19: 5652945806724310395
+      fury_avatar_2: -7325141609384164947
+      fury_avatar_20: 4669564100026110446
+      fury_avatar_21: 1453606053603702274
+      fury_avatar_22: 2833787960791875552
+      fury_avatar_23: -6636878105507636644
+      fury_avatar_24: -4150980568858468608
+      fury_avatar_25: -745993768249610190
+      fury_avatar_26: -7193095175051239709
+      fury_avatar_27: 5952446798666818009
+      fury_avatar_28: 4842896829022974265
+      fury_avatar_29: -5045642323077160276
+      fury_avatar_3: -4300952210156842856
+      fury_avatar_30: 7206633504983618058
+      fury_avatar_31: 209902640514597897
+      fury_avatar_32: 1401185638008669072
+      fury_avatar_33: -1278246370643494770
+      fury_avatar_34: -8776195950769377432
+      fury_avatar_35: -4617218595704788116
+      fury_avatar_36: 850779297771044327
+      fury_avatar_37: -5385578872963749621
+      fury_avatar_38: -2249846078972912046
+      fury_avatar_39: -7382551311738303717
+      fury_avatar_4: 8405176017723588003
+      fury_avatar_40: 8860243457348511319
+      fury_avatar_41: 1851127852433441
+      fury_avatar_42: 8199116951003704365
+      fury_avatar_43: 7933521252376415351
+      fury_avatar_44: 468303973450177877
+      fury_avatar_45: 6405875655604450769
+      fury_avatar_46: 1971055021163280712
+      fury_avatar_47: 5741901423420425497
+      fury_avatar_48: -3375128340428902582
+      fury_avatar_49: -2001112419810737827
+      fury_avatar_5: -5847663483200340542
+      fury_avatar_50: 5035290609041823877
+      fury_avatar_51: -3329806185349148272
+      fury_avatar_52: 7203205291579337769
+      fury_avatar_53: 4598642456795104269
+      fury_avatar_54: 1381407725656012994
+      fury_avatar_55: -5692479661553088674
+      fury_avatar_56: 5688790686786364989
+      fury_avatar_57: -4154844193337945598
+      fury_avatar_58: 650338550232639223
+      fury_avatar_59: 5931232285821646466
+      fury_avatar_6: -9216921238263494574
+      fury_avatar_60: -6677268868283747146
+      fury_avatar_61: -8539018308052744072
+      fury_avatar_62: 589312725832426803
+      fury_avatar_63: 215649316606129708
+      fury_avatar_64: -5291064041426716160
+      fury_avatar_65: -7707809715793272569
+      fury_avatar_66: -5798878974293225951
+      fury_avatar_67: -1953426225680243608
+      fury_avatar_68: 1099670383128354891
+      fury_avatar_69: 6706007988139889354
+      fury_avatar_7: -2029055721470786112
+      fury_avatar_70: -6674679114406974932
+      fury_avatar_71: 8475361785379556366
+      fury_avatar_72: 5603613570119576114
+      fury_avatar_73: 1504159150355380334
+      fury_avatar_74: -7911700706368205762
+      fury_avatar_75: -8507613583432368102
+      fury_avatar_76: -2702172033183142539
+      fury_avatar_77: 5229895148330435007
+      fury_avatar_78: 8244055563070184942
+      fury_avatar_79: 1449807709768781245
+      fury_avatar_8: -1151109864108488349
+      fury_avatar_9: -2376306974844022915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
