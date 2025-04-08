@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Kartsan.Core
+namespace Core
 {
 	public class CanvasRatioScaler : RatioScaler
 	{

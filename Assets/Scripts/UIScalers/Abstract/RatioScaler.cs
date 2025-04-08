@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Kartsan.Core
+namespace Core
 {
 #if UNITY_EDITOR
 	[ExecuteInEditMode]

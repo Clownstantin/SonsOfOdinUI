@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Kartsan.Core
+namespace Core
 {
 	[RequireComponent(typeof(Camera))]
 	[ExecuteInEditMode]
