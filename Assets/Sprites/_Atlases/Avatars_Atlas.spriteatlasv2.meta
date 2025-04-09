@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f2d5445fbdf381b4eadf74ce77f1cdc1
+guid: 1c7534c59b407f4499e1fa811d2273d2
 SpriteAtlasImporter:
   externalObjects: {}
   textureSettings:
@@ -16,7 +16,7 @@ SpriteAtlasImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -33,7 +33,7 @@ SpriteAtlasImporter:
     blockOffset: 1
     allowAlphaSplitting: 0
     enableRotation: 0
-    enableTightPacking: 1
+    enableTightPacking: 0
     enableAlphaDilation: 0
   secondaryTextureSettings: {}
   variantMultiplier: 1
